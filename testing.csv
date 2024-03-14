@@ -1,0 +1,1001 @@
+er,Gender,BMI,Sugar Level (mg/dL),Blood Pressure (mmHg),Diet Plan,Exercise Plan,Protein,Fat,Fiber,Glycemic Index,Carbohydrates,Timing
+88,Male,34.3,147,125/91,Green Beans,Balance Exercises,14.1,8.9,6.2,67.6,19.9,Lunch
+82,Male,31.5,294,179/108,Pulao,T'ai Chi Chih,21.2,22.2,7.6,27,18.2,Lunch
+23,Female,22.5,232,128/91,Chicken Tikka,Balance Exercises,30.6,16.4,2.6,51.3,5,Lunch
+26,Male,29.4,156,159/114,Quinoa,Stretch Band Exercises,9.6,22,7.9,81.4,45.8,Breakfast
+61,Female,20.9,251,120/85,Grapes,Golf (Walking),27.3,23,13.7,40.1,25.6,Breakfast
+20,Male,26.1,90,160/106,Pongal,Hand Cycling,16.8,6,12.5,42.4,35.4,Lunch
+54,Male,24.5,289,165/108,Green Beans,Golf (Walking),6,14.4,8.5,45.1,36.8,Dinner
+25,Female,27.3,280,144/70,Zucchini Noodles,Balance Exercises,10.5,7.4,9.6,89.6,41.8,Lunch
+43,Male,19.8,252,158/78,Chapati,Low-Intensity Dance Class,9.1,14.6,8.9,81.3,15.5,Lunch
+53,Female,32,93,130/66,Grilled Salmon,Stationary Bike (Recumbent),23,22.8,12.5,86.1,49.5,Dinner
+59,Female,27.3,153,131/119,Whole Wheat Bread,Tai Chi,15.9,6.7,5.9,83.8,37.9,Lunch
+71,Male,24.8,197,137/102,Paneer,Kayaking,24,16.5,6.4,83.8,37.7,Breakfast
+49,Female,32.1,259,136/83,Carrots,Stationary Bike (Recumbent),28.5,15.1,5.7,32.4,12.2,Breakfast
+77,Female,20.3,136,130/76,Chicken Curry,Kayaking,24.3,13.9,2.3,25.9,6.9,Lunch
+64,Male,21.8,199,137/71,Fatayer,Stationary Bike (Recumbent),29.4,7.1,8.1,82.1,32.9,Lunch
+37,Male,24.9,132,146/75,Quinoa Pasta,Kayaking,10.2,19.4,13.2,35.8,23.2,Lunch
+61,Male,34.5,153,158/94,Aloo Paratha,Kayaking,25.8,19.8,3.6,61.3,46.2,Lunch
+57,Female,20.9,193,164/74,Lean Beef,T'ai Chi Chih,18.5,8,0.1,67.9,2,Dinner
+56,Male,31.5,95,180/86,Quinoa,Light Calisthenics,12.1,11.9,3.3,65.6,17.9,Breakfast
+28,Male,19.6,147,180/93,Watermelon,Hand Cycling,28.4,15.6,13.3,65.1,45.3,Breakfast
+49,Female,26.8,251,171/119,Chickpeas,Rowing Machine,15.8,23.6,5.1,61.9,23.4,Lunch
+46,Female,21.4,221,163/110,Carrots,Low-Intensity Dance Class,29.1,23.4,9.9,82.2,41.6,Breakfast
+69,Female,21.2,116,127/98,Fish Tacos,Hand Cycling,22.7,14.7,1.1,25.1,6.8,Lunch
+67,Male,28.7,103,169/84,Avocado,Rowing Machine,25.7,11.4,4.8,45.8,33.7,Breakfast
+27,Female,24.2,169,178/113,Chana Masala,Low-Intensity Dance Class,14.6,8.6,13.3,46.1,16.3,Lunch
+28,Female,24.9,102,169/68,Lentil Soup,T'ai Chi Chih,18.9,12,10.3,76.6,28.8,Dinner
+79,Male,30,209,128/64,Pulao,Resistance Band Exercises,5.9,5.2,14.7,79.6,47.2,Lunch
+69,Male,19.5,130,121/104,Mutton Biryani,Low-Intensity Dance Class,20.9,6.4,14.7,57.9,41,Lunch
+71,Male,26.8,210,159/87,Turkey Chili,Kayaking,37.1,12.6,1.4,21.7,2.8,Lunch
+62,Male,27.1,224,166/113,Apples,Low-Impact Aerobics,21,24.9,8.2,59.8,24.3,Breakfast
+70,Male,27.4,100,157/96,Bell Pepper,Light Calisthenics,20.3,20.9,10.2,43.3,36.6,Lunch
+40,Female,23.4,241,147/60,Tofu,Stretch Band Exercises,5.9,20.1,14.5,53.6,37.9,Breakfast
+22,Male,27,124,123/85,Lean Beef,Stretch Band Exercises,23.8,14.2,0.6,36.7,1.8,Dinner
+82,Male,33.5,138,142/116,Greek Yogurt,Canoeing,13.3,23.7,14.9,50.1,25.4,Breakfast
+61,Male,20.3,241,133/107,Flaxseeds,Balance Exercises,13.6,12.1,2.7,45.5,36.8,Breakfast
+28,Male,31.9,156,121/81,Makbous,Chair Yoga,24.5,20,6.2,21.1,43.1,lunch
+33,Male,33.9,119,138/67,Tomato,Stability Ball Exercises,10.9,6.3,5.4,72.2,23.6,Breakfast
+82,Male,32.3,296,164/85,Berries (mixed),Stability Ball Exercises,5.3,10.6,9.3,29.8,33.4,Breakfast
+54,Male,24.3,175,172/118,Maamoul,Paddleboarding,13.2,16.3,4.6,52.5,17.5,Breakfast
+88,Male,19.9,196,153/96,Grapes,Canoeing,24,18.4,14.1,45.5,31.3,Breakfast
+90,Female,23.6,272,127/65,Pav,Chair Yoga,8.9,14.2,6.9,32,12.3,Lunch
+31,Male,26.1,142,162/77,Chicken Curry,Light Calisthenics,38.3,12.9,4.9,27.6,6.7,Lunch
+42,Male,30.2,226,157/67,Dosa,Low-Impact Aerobics,6.5,5.2,12.5,87.5,32.8,Lunch
+64,Female,24.6,163,165/77,Quorn,Meditation and Deep Breathing,8.5,21.3,4.7,23.8,10.6,Dinner
+42,Male,25.2,109,175/68,Mandi,Water Aerobics,11.8,7.6,12.2,61.1,22.9,Lunch
+42,Male,25.3,101,145/96,Avocado,Stretching Routine,6.2,20,6.6,82.7,46.4,Breakfast
+41,Female,30.5,127,123/96,Kheer,Recreational Swimming,24.6,6.2,4.3,27.5,49.9,Breakfast
+51,Male,32.3,239,154/63,Coconut,Hand Cycling,28.7,12,11.5,38.4,25.2,Breakfast
+37,Female,20.6,75,145/72,Almonds,Stretch Band Exercises,29.9,21.3,7.6,63.2,10.4,Breakfast
+48,Male,28.4,218,168/66,Chole Bhature,Hand Cycling,5.7,23.5,6.8,76.2,38.9,Lunch
+34,Male,34.4,83,147/76,Lamb Shawarma,Water Aerobics,6.1,20.2,5.2,83.4,23,Dinner
+32,Male,31,285,154/81,Chicken Curry,Kayaking,23.4,18.9,4,42.4,6,Lunch
+25,Female,23.4,78,176/106,Oats,Qi Gong,14,8.2,12,76.9,25.2,Breakfast
+88,Female,34.5,180,128/63,Baingan Bharta,Balance Exercises,11.1,23.4,14.4,59,23.1,Lunch
+48,Male,23.8,245,168/79,Celery,Gentle Yoga,10.5,19.3,6,62.8,34.7,Lunch
+57,Male,30.3,171,145/87,Green Tea,Paddleboarding,15.1,20.1,11,55,35.5,Breakfast
+43,Male,29.6,129,166/74,Steamed Broccoli,Elliptical Trainer,23.6,9.5,11.8,37.3,28.4,Lunch
+25,Male,33.5,75,130/102,Chicken Tikka,T'ai Chi Chih,25.1,14.6,2.1,52.9,6.2,Lunch
+75,Female,30.9,192,133/104,Fish Fry,Light Calisthenics,22.1,12.5,1.9,29.6,9.3,Lunch
+79,Male,31.4,125,158/60,Vegetable Curry,Chair Yoga,1.1,2.8,5.5,44.6,8.7,Dinner
+22,Male,21.1,255,142/119,Raspberries,Stationary Bike (Recumbent),15.8,9,8.5,24.1,20.8,Breakfast
+30,Male,23.6,117,125/89,Oats,Rowing Machine,22.2,12.3,11.3,75.8,23.5,Breakfast
+48,Female,27.8,118,173/95,Grilled Salmon,Qi Gong,30,15.2,9.7,20.1,28.7,Lunch
+61,Female,29.9,74,150/76,Grapes,Seated Exercises,15.2,24.8,6.7,44.4,30.7,Breakfast
+27,Male,24.1,276,170/66,Olive Oil,Stretch Band Exercises,29.4,17,14.9,69.5,46.3,Breakfast
+41,Female,20,228,126/91,Dahi Vada,Rowing Machine,15.6,19.9,13.6,52.3,19.7,Lunch
+33,Female,31.6,259,168/103,Medu Vada,Canoeing,29,17.2,6.1,51.4,27.8,Lunch
+81,Female,33,189,137/101,Broccoli,Resistance Band Exercises,13.3,22,11.9,84.6,38.8,Lunch
+87,Male,33.1,130,154/108,Vegetable Pulao,Qi Gong,2.8,3,4.9,56.8,13.6,Lunch
+67,Male,19.9,97,169/73,Pakora,Stability Ball Exercises,29.7,25,9.7,50,25.4,Dinner
+54,Female,32.4,70,124/83,Spinach,"Bodyweight Exercises (e.g., squats, lunges)",28.7,23.3,12,74,12.8,Dinner
+75,Male,33.6,299,166/106,Lettuce,Low-Intensity Dance Class,7.2,10,10.7,74.8,20.8,Lunch
+74,Female,35,297,120/107,Kabsa,Meditation and Deep Breathing,15.1,8.3,14.3,72.8,23.9,Lunch
+84,Female,27.3,193,173/73,Lassi,Qi Gong,19.5,8.5,6.1,31.8,30.5,Breakfast
+44,Male,24.8,210,121/86,Nuts,Chair Yoga,17.6,14.3,3.3,87,43,Breakfast
+39,Male,19.9,70,156/108,Chole Bhature,Pilates,6.8,21,14.8,38.7,16.4,Lunch
+52,Female,24.6,116,130/88,Rava Idli,Meditation and Deep Breathing,6.3,9,4.1,49.6,19.1,Lunch
+36,Female,22.2,245,133/78,Soy Milk,Seated Exercises,27.8,7.3,3.7,34.5,37.2,Breakfast
+85,Male,24.6,180,168/70,Mutton Biryani,Stationary Bike (Recumbent),9.5,9.2,13.3,58.7,13.9,Lunch
+71,Female,23.5,133,120/76,Chicken Breast,Light Calisthenics,36.7,17.7,3.5,53,3.1,Lunch
+23,Male,26.3,216,150/93,Kunafa,Meditation and Deep Breathing,16.3,6.3,6.2,58,32.2,Breakfast
+81,Male,31.8,185,175/99,Kale,Pilates,26,22.1,6.2,56.4,14.3,Breakfast
+51,Female,20.4,277,169/107,Manakish,Kayaking,17.1,18.4,3.7,66.2,42.7,Breakfast
+35,Male,21.9,146,170/78,Mango Juice,Stretching Routine,24.5,11.1,2.2,66.8,18.3,Breakfast
+83,Female,24.6,287,133/110,Vegetable Soup,Pilates,2.1,2.3,2.9,23.3,9.1,Snack Time
+88,Male,32.6,83,154/75,Za'atar Manakish,Balance Exercises,28.9,6.6,9.1,27.4,33.3,Breakfast
+55,Female,29.8,292,121/100,Maamoul,Gardening,11.5,15.5,11.1,37.6,18.2,Breakfast
+85,Male,26.5,248,122/68,Mansaf,Chair Yoga,27.4,20.1,6,59.1,47.2,Breakfast
+38,Female,21.6,92,166/109,Kadhi Pakora,Balance Exercises,8.2,21.9,2.9,71.6,16.8,Breakfast
+75,Male,20.7,146,149/93,Spinach,Chair Yoga,17.4,13.1,4.9,86.3,23.8,Breakfast
+35,Female,33.6,220,171/119,Chicken Korma,Light Calisthenics,32.8,17.5,2.1,40.3,4.9,Lunch
+67,Female,20.9,287,155/118,Coconut Chutney,Stability Ball Exercises,14.8,18.1,10.3,62.6,44.3,Breakfast
+53,Female,34.6,139,179/74,Oranges,Water Aerobics,7.5,20.8,4.8,45.3,41,Breakfast
+80,Female,30.1,291,156/91,Seaweed,Resistance Training with Light Weights,14.8,19.4,5.4,24.8,14.9,Breakfast
+73,Female,33.5,226,126/90,Peanuts,Pilates,26.4,11.9,2.2,74.6,13.8,Breakfast
+78,Male,20.9,82,173/64,Chicken Breast,Seated Exercises,35.8,19.7,4.1,36.4,6.2,Lunch
+49,Female,32.4,133,127/82,Celery,Chair Yoga,27.1,13.1,7.3,46.1,22.4,Breakfast
+69,Female,34.3,280,121/63,Pesarattu,Resistance Training with Light Weights,28.3,19.2,10.4,53.9,40.8,Breakfast
+39,Female,34.6,171,178/91,Brown Bread,Kayaking,16.4,6.3,2.5,49.9,33.6,Breakfast
+53,Male,27,250,162/83,Kale,Qi Gong,28.1,20.6,7.9,57.8,42.7,Breakfast
+66,Male,22.1,191,150/105,Lettuce,Canoeing,8.5,13,6,70.9,30.6,Breakfast
+65,Male,27,83,135/60,Maamoul,Elliptical Trainer,17,16.8,13.4,74.5,31.9,Breakfast
+66,Male,30.7,284,144/104,Raita,Stretch Band Exercises,8.6,11.5,10.5,82.3,18.2,Breakfast
+58,Female,25.3,147,141/87,Roasted Turkey,Kayaking,21.9,14.8,1.5,51.2,9.3,Lunch
+83,Male,19.6,149,124/101,Foul Sandwich,Light Calisthenics,25.5,21.8,12.9,71.1,12.3,Breakfast
+37,Female,29.2,212,177/103,Barley,Stationary Bike (Recumbent),14,20.9,13.8,58.2,11.1,Breakfast
+70,Male,33.7,281,127/88,Chicken Shawarma,"Bodyweight Exercises (e.g., squats, lunges)",37.3,12.7,3.9,35.6,4.3,Lunch
+86,Male,27.8,278,148/76,Oats,Gentle Yoga,23.6,17.8,9.4,67.3,28.6,Breakfast
+25,Male,25.2,127,140/77,Cauliflower,Stretching Routine,24.4,9.6,5.1,58,20.6,Breakfast
+45,Female,34.3,200,147/63,Rasam,Recreational Swimming,24.7,22.4,6.9,76.1,47.2,Breakfast
+65,Female,27.5,106,124/88,Kheer,Light Calisthenics,27.4,7.5,8.8,32.2,46.5,Breakfast
+55,Male,31.2,110,145/67,Tuna,Gentle Yoga,12.2,16.8,6.7,45.4,47.8,Breakfast
+78,Female,34.8,120,154/113,Mango Chutney,Stability Ball Exercises,7,5.1,13.9,55.4,39.5,Breakfast
+47,Female,23.1,266,160/92,Rajasthani Dal,Seated Exercises,9,12.1,4,71.1,49.4,Breakfast
+25,Male,29.8,170,164/102,Brown Rice,Meditation and Deep Breathing,15.6,10.9,14.4,33.8,29,Breakfast
+43,Female,23.9,256,171/81,Pineapple,Seated Exercises,21.9,23.9,13.2,80.7,31,Breakfast
+47,Male,22.5,292,128/90,Pork Tenderloin,Water Aerobics,21.6,12,7.1,59,41.4,Breakfast
+49,Female,29.6,294,169/89,Kidney Beans,Tai Chi,23.2,8.8,2.5,72,10.1,Breakfast
+25,Female,30,150,171/115,Mushrooms,Kayaking,9.9,6.8,6.4,53.5,32.7,Breakfast
+25,Male,31,148,160/93,Mushrooms,Canoeing,18.4,16.3,8.3,44.3,33.6,Breakfast
+30,Male,33.4,85,133/115,Asparagus,T'ai Chi Chih,11.1,18.9,4.8,70.1,21,Breakfast
+24,Female,19.5,164,167/71,Pineapple,Recreational Swimming,26.5,9.9,3.4,49.1,15.9,Breakfast
+36,Female,21.3,99,135/74,Kheer,Recreational Swimming,20.6,23.4,10,27.8,11.7,Breakfast
+34,Female,23.5,132,159/67,Quinoa,Gentle Yoga,17.9,8,5.2,80,15.3,Breakfast
+25,Male,34,258,163/66,Olive Oil,Kayaking,19.4,12,12.7,47.2,26.5,Breakfast
+31,Male,34.1,292,166/102,Broccoli,Elliptical Trainer,28.2,7.5,3.3,40.2,42.8,Breakfast
+76,Female,34.5,75,175/108,Cucumber,Stretching Routine,18.9,17.2,13,74.5,26.2,Breakfast
+76,Female,30.1,94,162/114,Mutton Rogan Josh,Rowing Machine,14.8,10.6,14.9,34.7,49,Breakfast
+38,Female,27.9,229,179/60,Lentils,Canoeing,9.4,11.8,11.5,74.9,27.5,Breakfast
+68,Male,24.2,298,158/62,Avocado,Stretching Routine,16.5,24.7,6.1,27.5,43.4,Breakfast
+80,Female,21.2,268,179/118,Foul Medames,Resistance Training with Light Weights,25,24.3,2.1,45,47.8,Breakfast
+78,Female,23.7,168,175/64,Peanuts,Paddleboarding,20.7,9,12.9,22.1,42,Breakfast
+21,Female,22.9,126,175/99,Quinoa Salad,Light Calisthenics,3.8,1.3,5.1,47.9,14.4,Snack Time
+50,Female,34.7,189,165/66,Cucumber,Kayaking,22.4,15.9,4.7,41.1,39.3,Breakfast
+35,Female,32.9,183,143/101,Rava Idli,Recreational Swimming,26.5,11.1,13.3,81.8,18.6,Breakfast
+65,Female,20.6,201,150/60,Grapes,Rowing Machine,6.5,10.9,8.6,33.6,26.7,Breakfast
+32,Female,21,139,129/74,Aloo Paratha,Canoeing,16.2,12.5,6.8,22.7,24.5,Breakfast
+68,Female,22.5,141,165/76,Dahi Vada,Stability Ball Exercises,20.2,10.5,10.2,54.2,38.8,Breakfast
+60,Female,20.1,199,134/95,Greek Yogurt,Chair Yoga,5.6,18.8,6.4,61.3,41.2,Breakfast
+40,Female,20.5,88,124/103,Oranges,Stability Ball Exercises,13.5,9.2,8.9,34,30.7,Breakfast
+35,Female,27.6,283,140/83,Brussels Sprouts,T'ai Chi Chih,24.5,21.5,11.9,63.4,18.2,Breakfast
+89,Male,31.5,80,123/102,Lentils,Light Calisthenics,5.1,6.6,2.5,33.7,10.6,Breakfast
+65,Male,31.4,277,139/103,Za'atar Manakish,"Bodyweight Exercises (e.g., squats, lunges)",14.2,19.3,14.6,24,41.3,Breakfast
+28,Female,20.8,219,144/75,Pork Tenderloin,Stretch Band Exercises,24.9,7.9,4.8,52.2,32.4,Breakfast
+39,Female,19.2,106,165/80,Samosa Chaat,Elliptical Trainer,18.2,12.2,11.1,71.7,40.4,Breakfast
+31,Female,23.5,162,162/71,Oats,Stability Ball Exercises,14.1,5.2,14.1,67.3,29.8,Breakfast
+47,Male,19,108,154/110,Eggplant,Light Calisthenics,11.7,8,13.4,80.3,15.3,Breakfast
+74,Female,31.7,208,165/64,Kachori,Stationary Bike (Recumbent),13.6,18.7,5.1,52.6,34.3,Breakfast
+71,Female,21.1,250,156/75,Carrots,Resistance Training with Light Weights,28.3,14.5,12.1,22.8,23.6,Breakfast
+29,Male,27.6,286,121/83,Carrot,Qi Gong,14.3,23.7,2.1,56.6,11,Breakfast
+65,Male,21.1,246,132/77,Chicken Soup,"Bodyweight Exercises (e.g., squats, lunges)",30.3,14.9,2.1,57.1,3.6,Lunch
+43,Male,34.9,79,132/90,Mango Lassi,Qi Gong,18.9,11.1,7.9,64.9,20,Breakfast
+54,Male,29.5,131,127/117,Veggie Burger,Stability Ball Exercises,21.1,12,2.7,71.9,27,Breakfast
+55,Female,21.4,279,164/101,Apple,"Bodyweight Exercises (e.g., squats, lunges)",9.2,5.2,10.9,39.7,14.3,Breakfast
+29,Female,32,108,139/101,Strawberries,Qi Gong,12.8,10.3,6.9,28.3,36.4,Breakfast
+44,Female,29.2,186,153/85,Cauliflower,Meditation and Deep Breathing,5,17.9,2.5,50.9,26.2,Breakfast
+70,Male,18.8,247,124/88,Labneh Manakish,Golf (Walking),27.6,8.8,7.5,21.9,40.3,Breakfast
+42,Male,30.4,244,141/87,Chicken Breast,Stretching Routine,24.9,13.1,1.6,21,3.6,Lunch
+58,Male,23.9,213,173/97,Tandoori Chicken,Seated Exercises,35.8,11.1,1.3,54.8,9.5,Lunch
+37,Male,30.5,286,127/112,Grilled Chicken,Water Aerobics,27.1,13.2,3.7,56.5,2,Lunch
+54,Male,32.2,157,175/120,Lamb,Tai Chi,8.5,9.4,4.7,82.6,28.6,Breakfast
+66,Female,22.5,105,126/90,Foul Medames,Stationary Bike (Recumbent),7,15,5,73.1,30.1,Breakfast
+27,Male,33.9,100,155/89,Flaxseeds,Meditation and Deep Breathing,21.1,8.9,10.8,71.2,42.2,Breakfast
+87,Female,21.9,150,146/96,Coconut Milk,Pilates,22.1,18.4,4.6,49.1,21.4,Breakfast
+87,Female,19.7,236,146/63,Rajma Chawal,Rowing Machine,26.7,17.7,5.5,63.6,49.4,Breakfast
+74,Female,22.8,259,151/83,Pav Bhaji,Low-Intensity Dance Class,9.3,9.3,6.4,24.1,25.4,Breakfast
+50,Female,32.4,222,178/94,Papdi Chaat,Stability Ball Exercises,15,14.7,2.4,26.6,29.9,Breakfast
+44,Male,19.1,129,180/71,Foul Medames,Meditation and Deep Breathing,14.2,9.5,11.8,29.9,48.5,Breakfast
+22,Male,19.7,258,158/76,Kidney Beans,T'ai Chi Chih,15.7,9.9,12.7,44.9,26.1,Breakfast
+71,Female,25.6,110,141/96,Mushrooms,T'ai Chi Chih,21.9,13.6,11.4,65.4,42.1,Breakfast
+53,Male,30.4,262,173/109,Coconut Milk,Water Aerobics,12.8,12.9,12.3,42.3,37.4,Breakfast
+26,Male,31,151,177/114,Mango Juice,Recreational Swimming,21.8,8,14.2,70.7,19.2,Breakfast
+49,Female,28.7,100,171/110,Turkey Breast,Stretching Routine,38.6,11.4,3.7,49.4,8.7,Lunch
+55,Female,26.9,80,145/97,Lentils,Qi Gong,29.1,23.7,4.1,78.6,13.8,Breakfast
+43,Male,25.7,287,149/113,Lamb,Low-Impact Aerobics,10.9,17.4,2.6,65.3,13.6,Breakfast
+32,Female,20,192,154/111,Eggplant Parmesan,Paddleboarding,15.9,20.3,2.7,20.2,28.2,Breakfast
+54,Male,24.8,183,137/98,Baingan Bharta,Gardening,6.3,22.3,4.8,55.5,34.1,Breakfast
+21,Male,31.8,164,144/78,Aloo Paratha,Stability Ball Exercises,9.1,8.6,6.5,54.1,48.1,Breakfast
+66,Male,32.1,237,164/97,Kidney Beans,Elliptical Trainer (Seated),25.9,13.1,13.8,65.9,31.9,Breakfast
+74,Male,25.3,124,140/107,Rajma Chawal,Meditation and Deep Breathing,25.2,5.2,2.2,24,34.6,Breakfast
+67,Male,20.1,94,175/67,Miso Soup,Stretch Band Exercises,20.9,21.4,8,59.6,12.9,Breakfast
+54,Male,33.6,295,121/89,Chia Seeds,Paddleboarding,13.6,11.7,7.8,47.9,45.9,Breakfast
+61,Female,21.9,230,136/66,Berries (mixed),Stability Ball Exercises,19,11,6.9,44.6,24.9,Breakfast
+25,Male,18.6,271,158/114,Green Beans,Paddleboarding,22.8,15.2,2.9,57.4,12.6,Breakfast
+35,Male,19.2,96,178/90,Lettuce,T'ai Chi Chih,27.3,8.9,9.4,80.7,18.4,Breakfast
+47,Male,29,148,131/76,Quinoa,Stretch Band Exercises,16.1,17.4,5.1,71.7,45.6,Breakfast
+24,Male,33.2,252,164/108,Salmon,Stretching Routine,11.4,9.8,9.2,43.3,10.4,Breakfast
+68,Male,30.7,259,152/60,Lean Beef,Low-Intensity Dance Class,25.7,8.9,0.4,46.1,4.9,Dinner
+83,Female,25.4,142,174/80,Gulab Jamun,Light Calisthenics,10.3,18.3,3.3,78.7,29.2,Breakfast
+76,Male,22.4,103,153/97,Moutabal,Light Calisthenics,10.5,7.2,8.6,52.8,16.9,Breakfast
+86,Male,21.2,102,139/68,Spinach,Light Calisthenics,28.1,7.8,13.6,40.7,35.1,Breakfast
+74,Male,33.6,134,174/74,Tuna Salad,Qi Gong,1.6,3.5,5,28.5,19.7,Snack Time
+73,Male,33.8,188,163/104,Rava Upma,Gentle Yoga,22.1,17.3,6.4,37.2,15.3,Breakfast
+82,Female,30.8,192,144/101,Bhindi Masala,Kayaking,20.8,12.5,3,32.1,23.4,Breakfast
+69,Female,19.2,161,123/109,Blueberries,Elliptical Trainer (Seated),25.2,8.4,12.7,46.8,23.8,Breakfast
+30,Female,25.2,293,179/112,Pav Bhaji,Canoeing,26.9,8.1,10.9,62.4,48.3,Breakfast
+42,Male,25.5,201,129/80,Peanuts,Hand Cycling,11.4,9.2,14.9,76.5,44.2,Breakfast
+79,Female,29.2,246,175/111,Salmon,Paddleboarding,27.1,21.7,13,23.3,22.9,Breakfast
+34,Female,34.5,227,172/72,Upma,Elliptical Trainer,5.2,17.2,11.7,55.1,17.8,Breakfast
+89,Female,21.8,224,124/72,Strawberries,Tai Chi,16.2,14.3,2.9,38.4,15.6,Breakfast
+53,Female,34.4,250,155/64,Chia Seed Oil,Recreational Swimming,23.3,15.9,14.1,90,19.7,Breakfast
+55,Male,27,237,123/66,Lamb Ouzi,Hand Cycling,14.2,6,12.8,45,21.1,Breakfast
+74,Female,18.8,179,146/99,Upma,Meditation and Deep Breathing,6,11.2,11.9,49,25.8,Breakfast
+31,Male,24.1,236,171/110,Ginger,Stretch Band Exercises,17.6,10.6,3.3,32.6,39,Breakfast
+26,Female,30.2,126,142/79,Banana,Stability Ball Exercises,25.5,15.2,5.3,21.4,40.2,Breakfast
+87,Male,25.7,187,169/105,Green Tea,Golf (Walking),14.6,7.5,11.2,39.2,10.4,Breakfast
+85,Female,25.5,132,180/82,Quorn,Meditation and Deep Breathing,6,6,8.8,58.8,37,Breakfast
+84,Female,32.4,193,160/65,Peanuts,Water Aerobics,27.1,21.6,12.2,51.6,33.5,Breakfast
+23,Female,20.8,186,161/116,Lean Beef,Seated Exercises,27.9,6.2,0.6,67.2,3.2,Dinner
+23,Male,29.4,109,144/76,Lentils,Paddleboarding,22.1,22.7,12.4,36.5,30,Breakfast
+25,Female,19.9,257,159/104,Apple,Low-Intensity Dance Class,5.1,5.5,4.2,87,45.4,Breakfast
+72,Male,22.4,216,124/89,Caprese Salad,Resistance Training with Light Weights,3.4,5,7.2,55.6,6.5,Snack Time
+80,Male,28.8,153,121/94,Raspberries,Resistance Training with Light Weights,14.1,13.4,3.3,47.8,21.9,Breakfast
+48,Female,30.9,114,130/118,Brown Bread,Kayaking,21.7,16,4.1,49.1,38.1,Breakfast
+82,Male,21,251,146/86,Foul Sandwich,Pilates,13.7,10.9,5.6,44.9,45.6,Breakfast
+72,Male,22.1,97,122/95,Tabbouleh,Resistance Band Exercises,10.3,10.9,12.3,75,46,Breakfast
+78,Female,30.5,123,180/97,Chicken Soup,Low-Impact Aerobics,30.4,19.9,1.4,24.1,6,Lunch
+84,Female,22,104,171/72,Oats,Resistance Band Exercises,14.5,23.8,7.8,26.7,22.1,Breakfast
+61,Male,22,155,161/66,Strawberries,Elliptical Trainer (Seated),17.9,17.7,5.1,24.2,35.4,Breakfast
+29,Male,20.7,300,166/102,Dahi Vada,Stationary Bike (Recumbent),25.6,7.8,5.5,35.5,49,Breakfast
+87,Male,20,289,139/101,Maamoul,Pilates,23.9,6.2,11,37.7,13.8,Breakfast
+89,Male,24.8,295,177/91,Mujadara,Water Aerobics,9.6,12.1,5.9,20.7,36.6,Breakfast
+22,Female,31.3,261,162/67,Coconut Oil,Low-Intensity Dance Class,19,10.5,6.4,73.6,25.3,Breakfast
+48,Female,19.8,138,168/68,Lettuce,Paddleboarding,21.1,10.3,11.6,73.5,18.5,Breakfast
+44,Male,21.1,200,147/66,Lamb Kabsa,Hand Cycling,17,16.5,4.5,78.4,38.9,Breakfast
+55,Female,27.6,103,140/103,Lentils,Tai Chi,7.1,14.4,8,54.7,27.3,Breakfast
+46,Female,28.8,96,179/98,Zucchini Noodles,Rowing Machine,10.2,19.3,14.3,82,17.4,Breakfast
+27,Female,24.2,210,178/115,Pears,Kayaking,20.9,8.2,13.9,86.4,14.5,Breakfast
+60,Male,21.6,220,161/65,Orange,Light Calisthenics,27,14.1,9.2,28.4,45.8,Breakfast
+52,Male,28.7,300,139/62,Cucumber,Elliptical Trainer (Seated),25.2,9.9,9.7,86.9,17.9,Breakfast
+22,Female,34.1,164,168/113,Pineapple,Gardening,12.1,13.9,7,65,49.4,Breakfast
+61,Male,29.4,245,151/70,Zucchini Noodles,Stretch Band Exercises,13.4,15.4,12.9,58,19.6,Breakfast
+20,Female,34.6,102,178/94,Chicken Curry,Low-Impact Aerobics,33.6,14.4,1.9,49.6,8.1,Lunch
+67,Female,34,105,156/89,Baingan Bharta,Stationary Bike (Recumbent),29.2,22.6,14.7,59.7,18.6,Breakfast
+36,Female,22.6,248,180/95,Almond Butter,Water Aerobics,26,24.3,12.2,79.7,27.2,Breakfast
+45,Male,22.8,230,131/89,Baingan Bharta,Elliptical Trainer,22.4,17.7,8.3,30.4,30.9,Breakfast
+38,Male,30.6,213,175/90,Quinoa,Pilates,21.6,9.4,8.7,71.9,13.7,Breakfast
+70,Male,31.8,135,134/118,Arayes,Tai Chi,26.5,16.3,14.7,54.1,44,Breakfast
+50,Female,31.3,87,177/105,Zucchini Noodles,Stability Ball Exercises,26.5,24.7,9.7,87.7,23.7,Breakfast
+59,Female,28.8,169,154/120,Mutton Biryani,Golf (Walking),9.2,24.3,3.7,70,44.1,Breakfast
+23,Male,29.6,177,123/106,Palak Paneer,Balance Exercises,7.1,7,11,66.3,41.3,Breakfast
+39,Female,30.2,116,170/110,Olive Oil,Meditation and Deep Breathing,10.7,7,5.7,46,42.7,Breakfast
+23,Male,29.5,227,152/100,Lamb,Stretching Routine,26.4,6.7,11.6,28.3,28,Breakfast
+73,Female,25.1,169,175/97,Brown Lentils,Resistance Training with Light Weights,18.3,10,14.5,47,22.4,Breakfast
+45,Female,30.3,170,142/67,Samosa Chaat,Tai Chi,6.5,22.4,5.9,54.5,12.7,Breakfast
+33,Female,30.3,157,152/80,Tuna Salad,Light Calisthenics,1.6,2.4,9.8,31.1,10.5,Snack Time
+48,Female,30,71,149/90,Cauliflower,Canoeing,23.5,12.9,13,51.1,24.7,Breakfast
+80,Female,31,298,125/78,Broccoli,T'ai Chi Chih,20.6,16.7,8.6,67.7,12.9,Breakfast
+83,Male,33.2,117,154/97,Oats,Elliptical Trainer,21.5,19.2,12.1,55.5,23.6,Breakfast
+21,Male,26.4,95,159/110,Brown Rice,Tai Chi,7.8,17.8,13.9,41.4,27.4,Breakfast
+48,Male,18.6,203,137/113,Chicken Salad,Recreational Swimming,4.2,1.9,9.8,48,8.8,Snack Time
+57,Female,34.6,272,150/79,Butter Naan,Paddleboarding,10.2,9.4,4.2,24.8,43.6,Breakfast
+89,Female,26.4,138,131/74,Chia Seed Oil,Meditation and Deep Breathing,5.5,9.9,9.9,45.7,39.1,Breakfast
+64,Male,20,240,142/94,Aloo Paratha,Elliptical Trainer (Seated),27.5,16.7,11.9,29,22.6,Breakfast
+52,Male,33.3,158,135/112,Chicken Curry,Balance Exercises,33.5,10.2,3.1,31.7,3.8,Lunch
+31,Male,18.6,177,123/63,Rajasthani Dal,Resistance Band Exercises,8.9,9.4,7.6,84.7,14.2,Breakfast
+23,Female,25.1,181,164/86,Malai Paneer,Qi Gong,11,9.2,4.9,42,25.8,Breakfast
+68,Male,24.3,157,158/77,Cod,Canoeing,24.8,7.6,4.5,40,36.3,Breakfast
+85,Female,29.2,221,163/87,Peanuts,Gentle Yoga,7.4,12.5,6.9,57.7,42.5,Breakfast
+31,Female,26.7,184,148/118,Dhokla,Paddleboarding,19.5,6.4,9.5,42.4,20.1,Breakfast
+65,Male,28.2,225,132/65,Quinoa Salad,Resistance Training with Light Weights,2.1,4.8,6.2,21,17.7,Snack Time
+87,Female,30.4,192,176/98,Cabbage,Rowing Machine,27.8,8,13.7,24,26,Breakfast
+90,Male,22.5,198,180/62,Lentils,Meditation and Deep Breathing,24.4,9.4,7.4,43.2,17.1,Breakfast
+31,Male,23.6,279,135/113,Eggplant,Canoeing,21.6,10.7,8,69.3,33.8,Breakfast
+37,Female,28.4,158,129/82,Greek Yogurt,Meditation and Deep Breathing,17.5,7.8,11.4,20.6,11.7,Breakfast
+67,Female,24.8,193,162/99,Dahi Vada,Resistance Training with Light Weights,6.9,18.8,3.4,21.4,47,Breakfast
+34,Female,28.9,76,173/74,Cauliflower Rice,Recreational Swimming,20.5,13.2,9.8,29.6,45.8,Breakfast
+83,Male,21.1,261,137/104,Baigan Masala,"Bodyweight Exercises (e.g., squats, lunges)",25.7,13.2,9.5,22.5,33.8,Breakfast
+28,Female,28.2,104,122/86,Chole Bhature,Elliptical Trainer (Seated),27.8,9.4,8.9,53.8,28.4,Breakfast
+43,Female,34.9,238,178/67,Quinoa,Light Calisthenics,5.9,8.7,3.7,50.7,25.9,Breakfast
+49,Female,29.5,189,125/107,Puliyogare,Meditation and Deep Breathing,29,20.5,13.9,82.7,14.7,Breakfast
+73,Female,23.3,134,142/107,Lettuce,Pilates,19.8,22.3,12.8,23.3,32.4,Breakfast
+23,Female,33,261,156/107,Coconut,Hand Cycling,9.7,12,10.6,40.9,20.6,Breakfast
+36,Female,25.7,164,173/113,Chicken Breast,Rowing Machine,29.5,17.3,1.7,24.5,1.8,Lunch
+20,Male,34.3,193,172/113,Chicken Breast,Low-Impact Aerobics,25.2,17.4,2.1,53.7,9.8,Lunch
+60,Male,34.2,126,158/89,Lean Beef,Low-Intensity Dance Class,19.8,12.4,2.1,31.6,2.6,Dinner
+51,Female,26.6,288,123/75,Cauliflower,Stretching Routine,18.3,23.3,8.4,83.7,10.3,Breakfast
+74,Male,22.1,209,122/109,Rasgulla,Recreational Swimming,28.4,8.5,7.1,36.2,13.9,Breakfast
+41,Male,29.3,114,154/115,Carrot,Stability Ball Exercises,15.4,7.4,10.9,59.9,18.6,Breakfast
+37,Male,22.1,256,161/80,Asparagus,Elliptical Trainer,5.5,6.3,4.7,42.6,26.7,Breakfast
+84,Male,30.4,262,147/86,Cottage Cheese,Resistance Band Exercises,24.6,9,7.5,20.5,32.1,Breakfast
+90,Male,34.1,289,157/87,Chicken Breast,Pilates,26,10.6,1.2,58.1,4.5,Lunch
+22,Male,29.2,159,170/70,Walnuts,Stability Ball Exercises,27.9,7.5,11.9,83,39.4,Breakfast
+77,Male,24.2,122,124/64,Berries (mixed),Kayaking,22,15.3,5.6,67.8,28.7,Breakfast
+67,Male,28.9,242,122/64,Lean Beef,Canoeing,22.3,7.8,2,67.2,0.6,Dinner
+90,Male,27.9,156,125/87,Kale,Stretching Routine,12.3,18.8,6.4,81.2,24.8,Breakfast
+50,Female,19.9,294,125/113,Tomato,T'ai Chi Chih,13.9,16.2,5.4,51.8,45.6,Breakfast
+41,Female,24.9,168,141/70,Salmon,Resistance Band Exercises,10.4,5.2,3.9,85.8,24.7,Breakfast
+50,Male,28.9,266,173/120,Pork Tenderloin,Low-Impact Aerobics,11.9,5,11.1,52.1,18.4,Breakfast
+46,Female,27.4,78,155/68,Uttapam,Light Calisthenics,15,6.1,14.6,59.1,28.5,Breakfast
+35,Male,25.9,200,172/117,Cucumber,Kayaking,12.4,7.3,9.8,80.7,28,Breakfast
+43,Female,21.1,98,123/90,Carrots,Elliptical Trainer,13.1,22.6,14.6,45.9,23.2,Breakfast
+69,Male,27.9,165,123/79,Fish Curry,Seated Exercises,31.5,13,3.6,53.4,5.1,Lunch
+84,Female,26.1,90,152/83,Chana Masala,Stretch Band Exercises,8,9.6,11.3,84.4,22.8,Breakfast
+40,Female,19.9,248,172/62,Lassi,Canoeing,27,12.3,12.6,46.9,44.8,Breakfast
+22,Male,31.4,265,147/89,Peanuts,Resistance Training with Light Weights,15.7,15.6,4,63.7,49.8,Breakfast
+33,Female,23.8,211,139/112,Tomato Soup,Qi Gong,17.3,22.7,3,74.5,15.7,Breakfast
+84,Female,24.5,115,157/110,Lettuce,Stretch Band Exercises,17.4,21.6,4.5,40.5,31.4,Breakfast
+56,Male,26,147,162/97,Zucchini,Elliptical Trainer (Seated),24.4,6.8,9.4,39.8,10.7,Breakfast
+63,Female,33.8,96,157/115,Blueberries,Paddleboarding,7.2,17.4,10,41.8,25.3,Breakfast
+64,Male,18.6,253,146/86,Chole Bhature,Tai Chi,27.1,22.6,2.5,44.5,42.2,Breakfast
+55,Female,20.8,135,143/69,Tomato,Stretching Routine,23.7,6.2,4.5,87.1,24.2,Breakfast
+79,Male,34.3,91,159/76,Chickpeas,Stationary Bike (Recumbent),28.1,21.1,4.8,76.1,41.2,Breakfast
+78,Female,33.2,216,150/78,Salmon,Water Aerobics,21.6,10.2,3,36.7,40.5,Breakfast
+53,Male,23.6,195,157/64,Moutabal,Water Aerobics,7.1,17.4,7.8,35.8,43.6,Breakfast
+58,Male,18.6,76,177/96,Broccoli,Light Calisthenics,16.2,6.8,5.1,60.5,36.3,Breakfast
+83,Male,30.6,72,169/72,Grilled Salmon,Chair Yoga,5,11.9,7.3,23.1,30.7,Breakfast
+49,Male,33.7,278,163/93,Lettuce,Stretching Routine,24.5,16.2,6.8,82.2,44.7,Breakfast
+75,Male,19.1,146,170/97,Oranges,Chair Yoga,11.5,9.1,13,69.1,45.5,Breakfast
+75,Female,23.6,240,179/98,Eggplant Parmesan,Kayaking,23.3,5.1,8.5,40.9,20.8,Breakfast
+69,Female,34,232,131/77,Fattoush,Stretch Band Exercises,8.6,23.2,11.1,75.7,11.5,Breakfast
+68,Female,34.7,266,144/83,Oats,Paddleboarding,8.3,7.6,6.4,73.5,33.3,Breakfast
+63,Male,22.4,255,173/76,Spinach,Gentle Yoga,20.5,13.6,12.2,32,15,Breakfast
+81,Male,23.6,109,178/80,Turkey Breast,Stretching Routine,36.3,12.4,1.3,40,9.1,Lunch
+21,Male,25.9,254,136/120,Celery,Canoeing,19.4,14.9,15,54.6,10.8,Breakfast
+49,Male,26.2,186,157/97,Flaxseeds,Gentle Yoga,9.1,10.6,6.8,54.7,16.4,Breakfast
+31,Male,26.5,111,162/90,Paneer,Resistance Band Exercises,28.1,15.1,7.5,31.9,21.9,Breakfast
+34,Male,25.1,285,140/83,Malai Kofta,Stability Ball Exercises,22.7,20.2,12.6,85.9,12,Breakfast
+74,Male,24.8,202,165/81,Vegetable Biryani,T'ai Chi Chih,3,4,5.4,39.2,15.7,Snack Time
+86,Female,25,230,131/69,Spinach,Qi Gong,21,16,10,24.2,17.7,Breakfast
+68,Female,22.4,251,137/91,Chicken Salad,Recreational Swimming,4.5,2.6,8.3,23.7,10.7,Snack Time
+30,Female,31.9,241,131/85,Chickpeas,Water Aerobics,10.1,23.9,14.6,56.4,31.4,Breakfast
+42,Female,20,110,133/66,Chana Masala,Recreational Swimming,8,15.2,12.8,24.4,40.1,Breakfast
+27,Female,26.4,247,120/101,Walnuts,Seated Exercises,23.9,25,13.8,48.1,29,Breakfast
+33,Male,30,84,147/74,Laban,Seated Exercises,13.6,24.3,10.3,29.7,27.9,Breakfast
+46,Female,18.6,291,168/62,Zucchini Noodles,Light Calisthenics,6.5,19.2,7.5,26.5,24.9,Breakfast
+58,Female,25,263,128/80,Samosa,Rowing Machine,26.7,17.4,11.5,70.8,31.4,Breakfast
+72,Female,30.6,262,178/100,Lean Beef,T'ai Chi Chih,23,14.1,2.4,69.1,4.3,Dinner
+60,Female,33.5,228,166/67,Zucchini,Chair Yoga,6.9,23.1,10.6,71.9,37.8,Breakfast
+32,Male,30.2,185,143/111,Brown Rice,T'ai Chi Chih,27,23,6.2,74.9,45.4,Breakfast
+31,Female,33.5,106,134/99,Manakish,Hand Cycling,10.5,12.4,5.4,67.7,28,Breakfast
+38,Female,28.6,142,170/70,Brown Bread,Gardening,23.2,12.2,8.9,43.8,47.5,Breakfast
+73,Male,20.4,160,167/93,Mutton Biryani,Light Calisthenics,11.4,23.6,14.1,41.8,11.7,Breakfast
+64,Female,25.2,73,158/74,Zucchini Noodles,Hand Cycling,6.4,17.8,4.7,86.2,46.6,Breakfast
+82,Female,20.1,299,168/71,Oats,Stretch Band Exercises,12.2,19.8,13.8,65.5,48.3,Breakfast
+50,Male,29.6,255,142/76,Chicken 65,Gentle Yoga,36.4,10.3,2.8,51.8,1.5,Lunch
+86,Female,20.4,148,170/93,Grapes,"Bodyweight Exercises (e.g., squats, lunges)",5.2,13.6,4.3,40.3,31.7,Breakfast
+69,Female,23,173,179/81,Raita,Meditation and Deep Breathing,9.7,11.9,14,62.7,16.1,Breakfast
+64,Female,30.8,213,162/76,Almonds,Resistance Band Exercises,12.2,19.6,14,65.3,46.8,Breakfast
+71,Female,25.3,144,121/77,Blueberries,Low-Intensity Dance Class,5.7,11.2,11.3,25,49.8,Breakfast
+57,Male,28.1,264,144/104,Mutton Rogan Josh,Elliptical Trainer (Seated),23.4,21.1,12.9,31.8,42,Breakfast
+68,Male,34.4,283,120/118,Lean Beef,Water Aerobics,28.5,7.6,2.4,46.6,4.4,Dinner
+35,Female,19.1,240,131/66,Chicken Biryani,Hand Cycling,37.1,12.8,4.7,36.9,9.7,Lunch
+31,Male,28.4,231,134/89,Seaweed,Elliptical Trainer (Seated),18.9,23.6,2.8,36.2,29.5,Breakfast
+64,Female,28.6,222,131/112,Blueberries,Gardening,26.4,22.3,12.8,28.6,12,Breakfast
+81,Male,28.8,234,179/108,Mango Lassi,Hand Cycling,29.1,19,9.5,31.4,27.4,Breakfast
+73,Male,34.6,273,149/71,Lentils,Meditation and Deep Breathing,12.6,13.7,12.6,61.7,20.4,Breakfast
+51,Male,20.6,71,177/62,Quinoa Salad,Meditation and Deep Breathing,3.1,5,2.3,22.6,19.8,Snack Time
+76,Male,30.1,93,153/83,Turkey Breast,Resistance Training with Light Weights,32.1,18.8,3.5,28.3,3.9,Lunch
+44,Female,23,116,177/60,Chicken Breast,Gardening,34.7,18.6,5,43.9,4.7,Lunch
+55,Male,32.1,197,172/96,Gulab Jamun,Seated Exercises,25.3,5.2,9.7,34.5,36.5,Breakfast
+83,Female,30.5,177,130/115,Chapati,"Bodyweight Exercises (e.g., squats, lunges)",25,13.6,11.6,52.1,43.8,Breakfast
+36,Female,25,202,135/84,Miso Soup,"Bodyweight Exercises (e.g., squats, lunges)",10.4,6.9,13.1,74,20.8,Breakfast
+83,Male,19.7,130,123/107,Lamb Ouzi,Light Calisthenics,13,20.7,12.9,70.6,16.4,Breakfast
+44,Female,19.6,296,155/65,Vegetable Pulao,Golf (Walking),2.8,3.5,5.3,52.9,6.1,Snack Time
+30,Male,20.3,243,144/109,Almonds,Resistance Band Exercises,17.7,16.7,6.6,85.1,40.9,Breakfast
+62,Female,32.2,228,167/76,Green Tea,Balance Exercises,23,5.1,14.9,88.2,46.8,Breakfast
+43,Female,25,254,143/66,Oats,Resistance Training with Light Weights,5.5,6.1,4.8,56.9,20,Breakfast
+81,Male,31.9,99,134/90,Rava Idli,Water Aerobics,27.8,14.1,5,52.5,44.8,Breakfast
+49,Male,23.1,253,146/104,Veggie Burger,Elliptical Trainer,13.7,18.7,10.8,88.7,47,Breakfast
+58,Female,30.4,87,131/67,Shish Taouk,Seated Exercises,20,11.5,8.9,80,27.4,Breakfast
+56,Male,33.5,192,172/88,Greek Yogurt,Low-Intensity Dance Class,16.3,5.6,11.6,30.5,34.9,Breakfast
+90,Female,25.5,267,143/83,Kheer,Rowing Machine,13.5,11.5,2.4,48,42,Breakfast
+51,Female,30.8,202,162/101,Palak Paneer,Golf (Walking),9.2,13.7,14.5,50.4,32.9,Breakfast
+44,Male,18.9,85,171/112,Zucchini,Canoeing,11.6,17.4,8,30.5,46.5,Breakfast
+83,Female,34.6,129,122/91,Green Beans,Paddleboarding,10.8,11.9,6.2,59.9,16.9,Breakfast
+44,Male,25.6,108,134/115,Blueberries,Hand Cycling,26.8,13.3,9,88.5,36.9,Breakfast
+82,Female,28.2,222,179/92,Miso Soup,Rowing Machine,22.7,6.5,2.8,66.8,29.8,Breakfast
+60,Male,25.4,206,164/90,Barley,Qi Gong,6.6,22.3,9.4,50.1,24.5,Breakfast
+80,Male,18.6,218,125/100,Chicken Breast,Resistance Training with Light Weights,24,14.6,4.5,25.1,1.6,Lunch
+55,Male,19.5,73,169/66,Carrots,"Bodyweight Exercises (e.g., squats, lunges)",11.6,20.8,12.1,59.8,27.7,Breakfast
+89,Male,29.1,273,146/119,Radish,Tai Chi,28.2,14.4,13.2,31.2,32.9,Breakfast
+32,Female,23.1,183,159/63,Broccoli,"Bodyweight Exercises (e.g., squats, lunges)",27.7,9.5,11.7,87.3,35.7,Breakfast
+34,Female,31.1,76,155/76,Split Pea Soup,Chair Yoga,5.9,17.7,14.2,47,16.9,Breakfast
+73,Male,22.3,249,154/117,Coconut Chutney,Hand Cycling,9.9,12.4,5.6,59.7,23.9,Breakfast
+66,Female,27,221,158/116,Hummus,Stability Ball Exercises,9.2,12.6,12.1,43.7,20.4,Breakfast
+20,Male,31.9,73,124/105,Quinoa,Qi Gong,17.4,23.9,13.1,68.2,44,Breakfast
+61,Male,20,104,178/64,Apples,Elliptical Trainer,23.4,8,12.9,35.5,11.5,Breakfast
+82,Male,29.4,222,132/84,Pesarattu,Low-Intensity Dance Class,22.7,15,13.2,82.4,32.9,Breakfast
+83,Male,21.3,255,152/108,Falafel Wrap,Qi Gong,29.1,17,6.4,41.8,40,Breakfast
+51,Female,23.6,192,147/105,Fish Tacos,Water Aerobics,22.3,17.3,4.2,26.5,6.8,Lunch
+47,Female,26.5,257,173/104,Green Peas,Stationary Bike (Recumbent),14.4,9.3,6,89.7,45,Breakfast
+21,Male,25.8,249,149/90,Fattoush,Gardening,20.3,11.5,9.4,88,46.4,Breakfast
+66,Male,23.2,208,141/84,Watermelon,Elliptical Trainer,20.6,22.6,14,85.2,49,Breakfast
+90,Female,20.8,111,130/103,Mutton Biryani,Kayaking,12.1,8.9,9.9,57.3,32.5,Breakfast
+72,Female,20,105,180/120,Rava Idli,Stability Ball Exercises,15.2,19.8,7.2,61.6,10.4,Breakfast
+85,Female,22.9,127,135/79,Grilled Salmon,Resistance Training with Light Weights,14.2,22.4,10.3,54,45.6,Breakfast
+88,Female,25.2,216,178/115,Cauliflower,Canoeing,10.2,8.8,14.4,70.4,42.6,Breakfast
+74,Male,24.8,242,180/95,Greek Yogurt,Chair Yoga,15.7,20.7,10.8,21,21.3,Breakfast
+22,Male,26,104,138/112,Maamoul,Elliptical Trainer,22.9,13.9,6.5,37.3,20.9,Breakfast
+39,Female,28.9,260,128/68,Mushroom Soup,Qi Gong,22.1,10.4,14,79.6,16.5,Breakfast
+69,Female,20,208,143/107,Veggie Burger,Tai Chi,6.5,13.6,8.1,64.3,49.3,Breakfast
+74,Male,34.9,127,143/74,Greek Yogurt,Stretch Band Exercises,22.7,10.3,10.7,42.6,18.6,Breakfast
+63,Female,28.2,89,146/111,Brown Lentils,Stretching Routine,8.6,8.7,3.9,39.8,25.9,Breakfast
+39,Male,24.4,238,167/70,Shahi Paneer,"Bodyweight Exercises (e.g., squats, lunges)",20.6,10.7,11.7,30.6,21.4,Breakfast
+74,Male,25.8,265,179/71,Bell Peppers,Chair Yoga,13.2,15,10.2,44.9,30.8,Breakfast
+73,Male,26.6,73,153/112,Onions,Seated Exercises,28.5,14.6,14.7,57.7,29.2,Breakfast
+38,Male,29.8,207,136/76,Kiwi,Rowing Machine,13.5,19.7,3.6,53,14.5,Breakfast
+83,Male,33.7,202,163/74,Vegetable Biryani,Rowing Machine,4.2,3.9,3.6,27,16,Snack Time
+25,Female,30.9,110,121/97,Kheer,Stretching Routine,28.4,5.7,6.5,32.1,22.6,Breakfast
+59,Male,19.9,129,133/100,Chicken Breast,Pilates,21.4,18.5,4.6,38,1.5,Lunch
+69,Male,31.1,231,143/116,Berries (mixed),Meditation and Deep Breathing,19.4,20.9,4.2,68.8,11.1,Breakfast
+73,Female,21.9,192,170/91,Chicken Biryani,"Bodyweight Exercises (e.g., squats, lunges)",32.9,19.5,4.6,29.6,1.4,Lunch
+59,Male,28.3,132,137/102,Shrimp Stir-Fry,Golf (Walking),19.5,16.6,6.5,61.6,41.5,Breakfast
+32,Female,24,256,166/66,Lamb,Stationary Bike (Recumbent),8,19.5,8.4,63.6,42.6,Breakfast
+38,Female,34.7,137,176/119,Cucumber,Pilates,8.7,14,4.5,83.7,26.2,Breakfast
+82,Female,34.8,202,131/89,Lean Beef,Recreational Swimming,17.6,5.5,0.7,55,2.5,Dinner
+62,Female,21.3,92,133/77,Dal,Resistance Training with Light Weights,6.3,20.4,12,50.9,38.7,Breakfast
+88,Female,18.5,215,155/80,Green Tea,Low-Impact Aerobics,9.9,19,15,46.3,42.9,Breakfast
+38,Female,34.1,287,167/112,Lentils,Elliptical Trainer,27.7,9.9,14.3,44,27.7,Breakfast
+56,Female,26.3,216,177/63,Kale,"Bodyweight Exercises (e.g., squats, lunges)",23.2,24.4,9.5,27.8,18.2,Breakfast
+24,Male,19.6,293,132/103,Chia Seeds,Rowing Machine,13.1,13.8,11,45.6,36.1,Breakfast
+75,Male,32,247,148/66,Rajma Masala,Gardening,26.4,23.9,12.4,68.8,45.6,Breakfast
+46,Female,28.7,77,164/120,Chicken Salad,Chair Yoga,4.9,3.4,6,33.6,18.8,Snack Time
+52,Male,33.3,250,130/74,Blueberries,Stretch Band Exercises,11.2,5.6,11.6,45.5,45.5,Breakfast
+73,Female,24.9,92,160/108,Baigan Masala,Stability Ball Exercises,18.3,6.6,11.1,55.2,23.2,Breakfast
+30,Male,27.7,100,123/68,Rice,Paddleboarding,17.7,13,2.3,65.1,44.4,Breakfast
+78,Female,20.2,157,146/61,Bell Pepper,Rowing Machine,9,8.6,3.2,89.5,36.1,Breakfast
+22,Female,32.6,293,162/108,Spinach,Resistance Band Exercises,7.2,24.2,14.5,26.2,20.7,Breakfast
+35,Male,22.4,98,168/64,Eggplant,Light Calisthenics,15.1,19.6,10.6,39.6,33.5,Breakfast
+40,Male,20,84,162/84,Avocado,Chair Yoga,19.3,22.3,12.1,62.2,46.9,Breakfast
+61,Male,25.2,237,125/105,Malai Paneer,Canoeing,17.9,23.1,8.6,87.9,10.6,Breakfast
+30,Female,22.8,206,120/110,Quinoa Pasta,Stretching Routine,16.5,9.1,8.8,42.9,34.6,Breakfast
+73,Female,24.9,207,167/117,Raspberries,Qi Gong,28.6,19.7,13.5,27.1,42.1,Breakfast
+33,Female,19,216,157/85,Cucumber,Hand Cycling,16.9,17.5,11.7,62.4,20.4,Breakfast
+40,Female,24.6,151,161/115,Pork Tenderloin,Elliptical Trainer,12.8,16.4,8.1,83.9,43.1,Breakfast
+68,Male,26,188,153/113,Shish Taouk,Paddleboarding,7.8,13,7.4,78.3,19.2,Breakfast
+20,Female,22.4,266,124/97,Lamb,Pilates,9.6,8.9,10.2,80.9,47.9,Breakfast
+45,Male,31,131,156/69,Kheer,Paddleboarding,28.8,21.6,7.6,26.5,18.2,Breakfast
+73,Male,26.6,295,141/71,Olive Oil,Recreational Swimming,18.9,11.8,10.1,57,30.6,Breakfast
+42,Female,25.3,177,138/100,Strawberries,Paddleboarding,21.8,10.3,4.6,78.9,39.4,Breakfast
+34,Male,24.4,294,153/81,Sweet Potato,Elliptical Trainer (Seated),5.6,18.7,5.3,22.6,44.4,Breakfast
+60,Female,26,291,128/77,Gulab Jamun,T'ai Chi Chih,22.3,24.1,11.7,76.1,33,Breakfast
+88,Male,34.8,126,157/72,Eggplant,"Bodyweight Exercises (e.g., squats, lunges)",8.2,12.8,11.1,37.3,49.5,Breakfast
+64,Female,31.3,70,136/65,Lemon Rice,"Bodyweight Exercises (e.g., squats, lunges)",19.1,24.2,2.3,38.8,10.2,Breakfast
+24,Male,22.8,118,147/77,Quorn,Resistance Band Exercises,19.8,23.5,6.3,23.5,30,Breakfast
+69,Female,22.3,130,142/110,Butter Chicken,Hand Cycling,21,12.4,4.8,32,8.1,Lunch
+87,Male,31.8,298,152/80,Vegetable Biryani,Elliptical Trainer,3.4,2.1,2.8,34.7,18.4,Snack Time
+30,Male,31.8,74,146/101,Pani Puri,"Bodyweight Exercises (e.g., squats, lunges)",27.7,9.6,12.8,54.6,18.9,Breakfast
+43,Male,34.1,85,168/75,Split Pea Soup,Pilates,22.8,11.1,8.2,75.7,41.5,Breakfast
+49,Male,29,235,130/70,Soy Milk,Light Calisthenics,25.2,23.5,13,21.3,35.3,Breakfast
+41,Male,27.8,150,154/110,Green Beans,Canoeing,11.5,24.1,14.3,43.7,10.4,Breakfast
+69,Female,26.4,291,126/99,Pesarattu,Gentle Yoga,25.1,9.1,12.9,56.4,37.4,Breakfast
+64,Male,23,138,133/85,Turkey Breast,T'ai Chi Chih,38,20,1,53.6,4.5,Lunch
+84,Male,33.4,130,163/71,Methi Thepla,Seated Exercises,24,7.8,9.1,74.2,41.3,Breakfast
+25,Male,28.5,184,145/120,Watermelon,Rowing Machine,10,11,6.1,82.6,41.8,Breakfast
+28,Female,28.3,147,134/102,Aloo Tikki,Water Aerobics,19.5,24,4.4,50,48.4,Breakfast
+54,Female,25,206,146/116,Asparagus,Golf (Walking),27.2,5.4,8.9,45,41.6,Breakfast
+37,Female,25.4,140,141/97,Onions,Rowing Machine,10.9,6.9,9,63.5,28.3,Breakfast
+30,Male,25.3,195,148/113,Vegetable Pulao,Elliptical Trainer (Seated),5,3.1,2.6,29.7,17.2,Snack Time
+81,Female,19.3,261,121/73,Cauliflower Rice,Resistance Band Exercises,7.3,13.6,5.2,77.6,45.4,Breakfast
+51,Male,23.9,136,126/98,Puri,Paddleboarding,20.7,19.4,2.4,82.4,31.4,Breakfast
+60,Female,29.7,162,172/63,Avocado,Pilates,22.1,15.5,3.7,73.4,20.7,Breakfast
+80,Female,26,95,177/69,Oats,Elliptical Trainer (Seated),20.3,13.9,2.3,62.2,10.4,Breakfast
+62,Female,32.6,214,130/95,Chicken Breast,Stability Ball Exercises,30.8,11.3,4.6,41.3,3.2,Lunch
+58,Male,24.7,288,175/85,Oats,Golf (Walking),26,23,13.2,56,40.7,Breakfast
+74,Male,27,160,150/88,Shish Taouk,Pilates,16.8,12.8,5.4,25.4,43.4,Breakfast
+32,Female,31.4,248,146/85,Oats,Gardening,11.7,13,14,68,26,Breakfast
+55,Female,31.8,210,137/64,Avocado,Tai Chi,20.1,10.2,12,33,40,Breakfast
+86,Female,33.5,222,151/78,Vegetable Pulao,Tai Chi,4.6,2.4,3.8,34.5,8.7,Snack Time
+33,Female,23.9,114,139/113,Turkey Breast,Gentle Yoga,38.7,16.3,1.1,25.6,8.3,Lunch
+88,Female,31.2,98,172/83,Brown Bread,Elliptical Trainer,22.7,16.8,12.7,70.1,36.4,Breakfast
+67,Female,18.9,280,129/105,Quinoa,Hand Cycling,21.8,7.3,8.1,70.8,45.3,Breakfast
+80,Female,19.9,167,156/88,Lean Beef,Tai Chi,16.6,6.8,0,59.7,3.5,Dinner
+36,Female,19.7,94,176/100,Fish Fry,Kayaking,37.4,17.7,4.6,26.4,4.8,Lunch
+41,Male,22.1,81,132/74,Zucchini Noodles,Water Aerobics,11,18.5,5.9,81.9,38.6,Breakfast
+51,Male,28.3,179,179/107,Baked Chicken,Light Calisthenics,22.4,15.3,3.5,39.7,7.7,Lunch
+82,Male,26.3,199,134/77,Turkey Breast,Light Calisthenics,39.8,16.1,4.1,53.5,6.7,Lunch
+28,Female,22,107,124/99,Malabar Parotta,Seated Exercises,26.7,22.9,13.8,22,18,Breakfast
+26,Male,30.7,163,154/92,Oranges,Qi Gong,24,22,2.8,52.8,40.7,Breakfast
+26,Female,20.8,224,167/84,Kadhi Pakora,Golf (Walking),16.4,23.2,9.5,67.6,34,Breakfast
+33,Female,18.8,105,123/60,Greek Salad,Paddleboarding,2.3,2.1,3.1,43.4,9.7,Snack Time
+38,Male,23.2,261,140/76,Chicken Curry,Stationary Bike (Recumbent),39,15.4,4.1,33.7,3.6,Lunch
+42,Male,18.8,120,138/62,Black Beans,Low-Impact Aerobics,17.4,7.4,4.4,45.3,37.4,Breakfast
+48,Female,24.9,237,120/107,Cottage Cheese,Canoeing,7.6,6.8,9.7,42.9,11.1,Breakfast
+68,Male,33.7,140,130/71,Banana,Balance Exercises,8.1,9.8,3,36,21.2,Breakfast
+42,Male,26.4,249,174/81,Chia Seeds,Gentle Yoga,9.1,5.7,6.3,41,49,Breakfast
+50,Female,26.4,165,167/81,Chicken Shawarma,Pilates,20.6,14.2,2,36.5,5,Lunch
+35,Male,30.6,257,162/78,Quinoa,Gardening,8.5,5.6,12.7,52,24.6,Breakfast
+73,Male,29,112,137/108,Rasgulla,Elliptical Trainer,12.2,7,8.3,71.7,14.8,Breakfast
+28,Male,31.6,130,136/93,Mansaf,Canoeing,8.1,20.5,8.3,73.6,16,Breakfast
+69,Female,29.4,125,150/63,Brussels Sprouts,Resistance Training with Light Weights,19.1,18.6,9.9,65.4,48.8,Breakfast
+78,Female,19.2,123,143/116,Green Beans,Tai Chi,16.9,23.3,13.6,55.2,42.3,Breakfast
+34,Male,22,225,144/66,Peanuts,Qi Gong,9.1,13.4,9.3,70.4,23.8,Breakfast
+42,Female,22.1,189,156/112,Mushrooms,Chair Yoga,15.2,23.7,2.3,54.5,16.8,Breakfast
+49,Female,31.3,116,145/67,Chickpeas,Hand Cycling,12,13.3,9.1,54.8,39.8,Breakfast
+56,Female,33.5,177,129/106,Gobi Manchurian,Stretching Routine,9.7,6.4,13.2,65.5,41.1,Breakfast
+81,Male,25,289,147/116,Chicken Korma,Balance Exercises,20.5,19.4,4.1,50.1,9.3,Lunch
+89,Male,22.1,278,135/114,Cauliflower,T'ai Chi Chih,19.3,8.4,7.7,55.4,14.7,Breakfast
+28,Female,32.9,241,176/84,Rasgulla,Stretch Band Exercises,28.6,21.6,3.3,74.7,36,Breakfast
+28,Female,22.4,243,146/110,Broccoli,Pilates,9.7,18.3,13.2,31.2,49.5,Breakfast
+69,Male,34,179,136/113,Stir-Fried Tofu,Seated Exercises,12.8,13.2,4.4,56.3,13.8,Breakfast
+64,Male,31.2,222,174/115,Mandi,Rowing Machine,13.2,13.4,4.9,25.9,11.5,Breakfast
+89,Female,23.8,206,148/81,Shawarma,Light Calisthenics,26.2,14.2,12.8,29.6,24.5,Breakfast
+47,Male,21.2,202,171/60,Chickpeas,Kayaking,26,19.8,10.2,73.4,38.4,Breakfast
+70,Male,25.8,275,147/77,Tomatoes,Balance Exercises,25.7,14.5,2.5,82.8,34.4,Breakfast
+53,Female,34.7,185,177/95,Baked Chicken,Meditation and Deep Breathing,25.4,12.1,1.8,40.2,2.1,Lunch
+75,Male,31.6,93,169/90,Greek Yogurt,Water Aerobics,25.9,9.6,13.2,41.9,47.6,Breakfast
+45,Male,30.7,295,173/108,Miso Soup,Gentle Yoga,18.2,16.3,5.8,88.3,33.5,Breakfast
+57,Female,29.9,126,166/83,Lettuce,Pilates,17.6,15.9,11.2,26,45.4,Breakfast
+28,Female,23.6,251,141/110,Muhallabia,Elliptical Trainer,5.2,12.2,13.7,58.2,19.6,Breakfast
+64,Male,29.3,293,168/101,Greek Salad,T'ai Chi Chih,1.7,4.1,3.2,32.2,11,Snack Time
+68,Female,19.7,276,137/93,Miso Soup,Stretch Band Exercises,14.1,20.4,9.2,77.3,37.7,Breakfast
+63,Female,21.1,177,123/89,Quinoa,Stretch Band Exercises,24.8,20.2,7.7,35.9,45.8,Breakfast
+73,Female,28.4,156,153/91,Aloo Gobi,Recreational Swimming,17.7,17.2,4.7,31.2,28.4,Breakfast
+75,Female,32.4,287,123/102,Zucchini,Balance Exercises,13.3,19.3,13.8,84.7,41.1,Breakfast
+24,Male,28.1,87,141/68,Berries (Mixed),Chair Yoga,6,7,14.5,74.5,32.4,Breakfast
+65,Male,22.5,87,147/87,Shakshuka,Low-Intensity Dance Class,18,19.4,14.6,88.7,32.7,Breakfast
+59,Female,20.7,124,121/96,Greek Salad,Chair Yoga,4.3,3.1,3.6,21.7,14.8,Snack Time
+70,Male,32.9,168,169/70,Kofta,Seated Exercises,5.7,12.1,2.9,24.6,24.4,Breakfast
+20,Female,27.5,242,150/108,Peanuts,Canoeing,8.2,15.2,9.1,54.1,38.5,Breakfast
+42,Female,33.6,229,152/82,Whole Wheat Pasta,Pilates,29.8,11.2,9.8,79.8,33.3,Breakfast
+40,Male,31.4,87,146/99,Peanuts,Low-Impact Aerobics,21.4,19.2,9.9,54.2,32,Breakfast
+80,Female,33.3,263,140/91,Orange,Seated Exercises,5.9,23.4,10.5,67.4,19.1,Breakfast
+42,Male,32.6,239,151/88,Egg Whites,Gardening,6.5,6,4.4,38.5,36.4,Breakfast
+30,Female,26.5,213,152/102,Lamb Kofta,Stability Ball Exercises,26.3,10.1,2.9,47.8,38.1,Breakfast
+46,Male,18.9,189,163/100,Dosa,Recreational Swimming,8.9,13.8,10.7,50.7,30.5,Breakfast
+29,Male,32.6,78,133/93,Berries (Mixed),Stationary Bike (Recumbent),9.2,22.4,13.1,64.1,18.3,Breakfast
+71,Female,19.4,101,180/77,Vegetable Pulao,Light Calisthenics,4.1,3.8,6,24,5.4,Snack Time
+65,Male,27.1,196,120/62,Brown Lentils,Qi Gong,25.4,20.7,13.4,51.2,35.3,Breakfast
+33,Female,20.4,176,161/62,Almonds,Recreational Swimming,24.9,12,10.3,71.8,11.8,Breakfast
+66,Male,32.6,201,165/112,Eggplant,Low-Intensity Dance Class,9.9,18.5,2.7,53.9,17.9,Breakfast
+70,Female,34.1,156,146/93,Aloo Tikki,Rowing Machine,28.3,11.4,10.5,29.1,37.2,Breakfast
+55,Male,33.6,289,121/113,Oats,Hand Cycling,20.7,13.6,4.8,43.8,31.4,Breakfast
+86,Female,27.7,181,171/70,Pineapple,Stationary Bike (Recumbent),27.4,9.6,14,27,47.9,Breakfast
+63,Female,33.7,223,142/61,Quinoa,Meditation and Deep Breathing,29.2,23.4,11.6,39.9,24.6,Breakfast
+84,Female,25.4,219,164/78,Salmon,Tai Chi,22.3,5.7,4.1,21.3,10.9,Breakfast
+65,Female,34.8,147,169/112,Watermelon,Low-Impact Aerobics,21.7,20.3,5.9,67.2,46.7,Breakfast
+42,Male,31.1,108,135/72,Black Beans,Elliptical Trainer (Seated),28.1,14,10.9,76.8,48.5,Breakfast
+25,Male,25.3,184,173/114,Raita,Gentle Yoga,20.5,20.4,10.1,41.7,19.1,Breakfast
+78,Female,31.1,263,121/79,Grapes,Kayaking,29.1,5.5,10.6,63.7,35.7,Breakfast
+52,Male,33.8,117,155/106,Vegetable Korma,Resistance Training with Light Weights,1.8,1.3,9.4,36.2,19.3,Snack Time
+33,Male,22.6,187,156/115,Seaweed,Stability Ball Exercises,29.8,14.6,9.4,75.4,41.6,Breakfast
+46,Female,18.6,252,159/88,Asparagus,Gardening,7.8,6.4,9.9,87.5,18.9,Breakfast
+56,Male,27.2,218,166/81,Oats,Hand Cycling,10.3,20.9,11.4,46.4,40.3,Breakfast
+23,Female,28.2,116,154/74,Salmon,Gardening,12.9,6.9,9.2,47.8,29.1,Breakfast
+47,Male,25.2,106,129/69,Grapes,Elliptical Trainer,10.2,23.3,10.1,76,17.8,Breakfast
+24,Male,21.7,153,138/112,Rava Upma,Resistance Training with Light Weights,26.4,6,10.1,41.3,37.5,Breakfast
+30,Female,32.9,122,173/103,Chickpeas,Stretch Band Exercises,24.7,5.1,10.3,61.6,32.4,Breakfast
+40,Male,24.9,122,135/99,Almonds,Low-Impact Aerobics,16.8,17.7,6,69.5,17.9,Breakfast
+88,Female,27.3,139,133/95,Malai Paneer,Low-Impact Aerobics,12.1,8.3,12.5,74,30.1,Breakfast
+84,Male,31,83,157/80,Chicken Korma,Hand Cycling,23.3,12.9,3.5,22.5,9.2,Lunch
+46,Male,25.7,290,158/66,Bhindi Masala,Stretch Band Exercises,25.5,8.1,6.5,53.2,31.4,Breakfast
+74,Male,21.6,120,146/97,Kofta,Balance Exercises,10.7,10.5,8.1,84.7,41.7,Breakfast
+27,Female,33.9,91,154/80,Celery,Canoeing,17.1,20.2,6.5,33.3,19.3,Breakfast
+21,Female,24,194,120/113,Oats,Hand Cycling,13,9.8,3.6,71.9,18.2,Breakfast
+23,Female,29.4,287,124/107,Oats,T'ai Chi Chih,22.7,20.7,5.7,44.6,29.9,Breakfast
+85,Male,34.4,199,173/65,Apples,Elliptical Trainer,6,17.2,9.5,55.7,48.2,Breakfast
+52,Female,26.9,101,135/81,Shish Taouk,Canoeing,9.9,8.7,13.6,24.2,36.9,Breakfast
+69,Male,29.6,188,157/98,Matar Paneer,Resistance Training with Light Weights,23.4,12.4,3.9,42.3,48.5,Breakfast
+88,Male,30.4,267,152/104,Lean Beef,Golf (Walking),18.9,8.6,2.3,64.4,2.4,Dinner
+66,Male,22.3,149,150/69,Cabbage,Stretching Routine,12.9,19.6,12.4,43.3,43.2,Breakfast
+68,Male,24.5,259,180/101,Broccoli,Balance Exercises,15.9,24,6.1,57.9,19.7,Breakfast
+89,Male,20.3,295,164/117,Spinach Salad,Balance Exercises,4.3,3.3,2.8,31.2,15.6,Snack Time
+43,Male,21.1,266,164/76,Lentil Soup,Canoeing,15.7,10.5,11.3,71.4,34.5,Breakfast
+77,Male,21.6,263,165/81,Miso Soup,Kayaking,11.5,12,7.7,71.4,38.7,Breakfast
+74,Male,23.3,261,130/80,Muhallabia,Rowing Machine,23.4,24,14.9,34.8,27.3,Breakfast
+49,Female,21.9,237,178/84,Aloo Tikki,Qi Gong,15.4,24.6,13.1,86.6,14.9,Breakfast
+55,Male,30.6,281,142/107,Za'atar Manakish,Gentle Yoga,8.8,21.9,13.5,56,21.9,Breakfast
+44,Female,25.5,260,147/97,Watermelon,Light Calisthenics,6.6,8.3,11.5,84.7,34.1,Breakfast
+42,Female,24.1,127,146/98,Barley,Gentle Yoga,18.8,12.2,4.7,37.3,29.2,Breakfast
+31,Male,21.5,89,151/65,Kunafa,T'ai Chi Chih,10,6.6,8.2,31,33.5,Breakfast
+84,Female,31.4,84,153/113,Puri,Qi Gong,26.7,6.2,5.6,36.9,16.7,Breakfast
+88,Male,31.3,280,151/96,Chicken Biryani,Hand Cycling,20.3,11.1,2.3,20.7,9.3,Lunch
+56,Female,21,191,158/101,Zucchini,Tai Chi,11.3,7.1,7.2,79.2,41.8,Breakfast
+64,Male,32.5,166,139/102,Eggplant,Rowing Machine,7.2,17.5,6.1,69.7,20.1,Breakfast
+75,Female,30.5,73,130/94,Brown Rice,Stability Ball Exercises,15.2,19.5,8.4,34.2,38.2,Breakfast
+43,Male,20.7,278,154/103,Walnuts,Low-Impact Aerobics,26.4,8.1,6.7,26.7,18.2,Breakfast
+71,Male,22.7,165,180/104,Greek Yogurt,Tai Chi,18,8.5,14.6,51.5,13.7,Breakfast
+46,Female,30.7,75,147/107,Quinoa,Elliptical Trainer (Seated),16.4,17.8,8.6,40.7,22.3,Breakfast
+47,Male,25,290,144/106,Cabbage,Balance Exercises,28.6,5.6,2.7,40.9,44.7,Breakfast
+31,Female,28.2,168,172/88,Muhallabia,Gentle Yoga,10.8,12.4,7.3,52.9,27.2,Breakfast
+42,Female,27.9,83,162/81,Kadhi Pakora,Qi Gong,17,20.7,9.4,39.4,32.5,Breakfast
+45,Male,22.2,128,126/91,Paneer Butter Masala,"Bodyweight Exercises (e.g., squats, lunges)",28.4,7.8,9,45,34.9,Breakfast
+29,Male,25.2,221,152/102,Carrot,Tai Chi,20.7,21.1,12,45.6,30.5,Breakfast
+44,Male,30.4,88,145/95,Oats,"Bodyweight Exercises (e.g., squats, lunges)",24.1,23.4,3.9,81.3,26.7,Breakfast
+39,Male,21.6,209,171/97,Grapes,Tai Chi,9.1,16.8,7.9,84.1,17,Breakfast
+64,Female,32.7,159,152/99,Bell Pepper,Recreational Swimming,20.1,14.7,6,23.4,45.7,Breakfast
+81,Male,33.2,261,169/83,Lean Beef,Chair Yoga,15.3,10.5,2,66.3,3,Dinner
+84,Female,21.8,252,149/87,Kale,T'ai Chi Chih,16.7,23.8,2.8,39.9,40.6,Breakfast
+21,Male,32.5,254,177/93,Almonds,Stationary Bike (Recumbent),16.4,18.4,14.3,49.5,34.3,Breakfast
+51,Female,19.9,81,158/83,Pulao,Elliptical Trainer (Seated),7.2,5.9,2.8,41.4,38.6,Breakfast
+76,Male,27.6,74,121/100,Oranges,Gardening,26.3,12.7,11.6,49.9,31.5,Breakfast
+84,Female,25.5,182,132/90,Bell Pepper,Elliptical Trainer (Seated),15.6,13.9,11.1,57.4,27.7,Breakfast
+32,Male,22.3,284,156/79,Rajma Masala,Elliptical Trainer (Seated),9.3,19.1,7.7,25.9,13.2,Breakfast
+48,Male,23.4,185,177/84,Peanuts,Stretching Routine,16.8,22.3,4.5,81.3,10.8,Breakfast
+71,Female,24.5,159,166/118,Raspberries,Balance Exercises,26.3,8.5,8.9,80.6,13,Breakfast
+82,Female,22.3,171,145/82,Cauliflower Rice,Light Calisthenics,10.2,5.9,13.8,78.4,36.2,Breakfast
+32,Male,31.5,209,158/82,Artichokes,Stretch Band Exercises,13.9,11.7,4.8,59.8,14.1,Breakfast
+90,Female,26.7,159,146/101,Grapes,Canoeing,11.6,21.2,4.3,22.3,37,Breakfast
+62,Female,32.8,186,128/105,Whole Wheat Bread,T'ai Chi Chih,18.9,20.6,6.8,81.8,15.1,Breakfast
+79,Male,23.7,183,127/109,Broccoli,Paddleboarding,24.4,10.5,4.7,54.6,31,Breakfast
+86,Male,20.6,296,141/91,Lamb Kabsa,T'ai Chi Chih,20.6,18.4,14.2,26.4,34.1,Breakfast
+62,Female,27.4,209,149/70,Asparagus,Water Aerobics,13.5,22,7.5,42.3,10.4,Breakfast
+56,Male,28.2,228,135/111,Methi Paratha,Gardening,25.4,16.4,7.2,20.4,10.6,Breakfast
+90,Female,24.9,211,142/76,Cabbage,Gentle Yoga,23,20.2,9.5,42,45.7,Breakfast
+63,Male,31.8,279,128/83,Oats,Pilates,29.7,21.9,13,31.5,13.3,Breakfast
+23,Male,31.1,230,137/66,Chicken Mandi,Tai Chi,37,10.6,5,21.3,4.5,Lunch
+21,Male,29.2,150,126/118,Pulao,Low-Intensity Dance Class,14.7,18.9,12.7,76.4,24.3,Breakfast
+60,Female,26.4,203,135/96,Quinoa,Stability Ball Exercises,23.1,12.1,7.5,23.5,48.9,Breakfast
+29,Female,34,184,124/79,Chicken Curry,Golf (Walking),35.6,11.1,5,47.3,3.2,Lunch
+50,Female,29.3,262,144/94,Chia Seeds,T'ai Chi Chih,23.5,18.3,11.3,74.4,23.6,Breakfast
+80,Male,27.8,230,180/96,Samosa Chaat,Qi Gong,22.6,8,13.7,54.4,46.5,Breakfast
+33,Male,32.9,158,149/99,Avocado,Canoeing,18.6,14.1,4.7,72.1,49.1,Breakfast
+36,Female,25.9,97,129/72,Mango Chutney,Chair Yoga,28.9,24.6,2.2,50.3,37.7,Breakfast
+37,Female,26.7,187,124/112,Lamb Shawarma,Stretch Band Exercises,21.4,20.8,10.8,26.6,40.9,Breakfast
+22,Female,30.6,186,170/83,Kachori,Rowing Machine,26.6,15.7,7.7,61.8,13.9,Breakfast
+88,Male,33.1,150,171/75,Gajar Halwa,Stretching Routine,22,14.2,11.2,21.7,37.4,Breakfast
+28,Male,24.8,94,123/76,Baingan Bharta,"Bodyweight Exercises (e.g., squats, lunges)",12.1,13.4,8.3,55.9,31,Breakfast
+45,Female,21.3,250,156/69,Rajasthani Dal,Stationary Bike (Recumbent),28.5,21.4,6.7,84.1,39.8,Breakfast
+71,Male,31.4,223,120/84,Fish Tacos,Paddleboarding,30.7,18.6,2.6,26.5,8.2,Lunch
+43,Male,21.8,168,138/69,Quinoa,Rowing Machine,15.8,6.2,13.5,79.2,12,Breakfast
+20,Female,26.3,191,148/68,Baba Ganoush,Golf (Walking),14.6,13.2,6.7,20.1,47.8,Breakfast
+51,Female,22.3,250,178/84,Cauliflower Rice,Low-Intensity Dance Class,18.8,16.9,9.6,72.8,47.1,Breakfast
+32,Female,23.3,217,145/94,Grapes,Meditation and Deep Breathing,7.9,13.3,2.5,23.2,19.8,Breakfast
+45,Male,34.1,108,167/106,Oranges,Light Calisthenics,18.2,9.6,4.6,27.7,35,Breakfast
+35,Male,19.8,242,139/105,Lassi,Tai Chi,14.6,24.6,2.1,60.9,23.2,Breakfast
+50,Female,27.5,173,158/65,Tuna,Resistance Training with Light Weights,14.9,11.6,8.8,73,28,Breakfast
+84,Male,31.9,260,151/106,Fish Curry,T'ai Chi Chih,21.9,11.7,2.3,33.7,6.2,Lunch
+50,Female,27.1,158,149/76,Chole Bhature,Golf (Walking),25.5,7.5,14.6,78.6,29.8,Breakfast
+33,Male,21.2,97,146/60,Kabsa,Gardening,20.6,24.2,3.3,89,21,Breakfast
+61,Female,24.2,115,122/94,Almonds,Low-Impact Aerobics,24,8.8,13,88.8,40.5,Breakfast
+57,Male,29.4,150,139/112,Quinoa Pasta,Resistance Band Exercises,29.4,22.9,5.6,75.2,33.1,Breakfast
+50,Female,20.7,125,155/102,Mushrooms,Tai Chi,12.5,16.9,10.9,73.5,27.5,Breakfast
+44,Female,18.9,127,139/78,Lamb,Qi Gong,12.4,19.4,6.7,44.1,12.5,Breakfast
+80,Male,19.3,198,152/104,Blueberries,Rowing Machine,6.3,13.1,11.2,85.8,47,Breakfast
+37,Female,33.8,297,129/79,Aloo Paratha,Water Aerobics,13.2,23.8,5.9,38,30.5,Breakfast
+26,Male,26.1,157,140/116,Orange,Paddleboarding,14.7,6.3,8.2,49.4,38.9,Breakfast
+31,Male,33.8,92,136/62,Fish Fry,Meditation and Deep Breathing,22.3,11.1,3,48,1.3,Lunch
+46,Female,30.6,228,151/83,Eggplant,Pilates,26.4,12.5,11.5,29.3,42.4,Breakfast
+44,Female,30.4,232,126/62,Pongal,Tai Chi,24.5,13.1,10.2,76.7,14.6,Breakfast
+28,Male,28.2,241,145/72,Hummus,Meditation and Deep Breathing,29.4,6.4,7.8,83.6,17.4,Breakfast
+57,Female,31.3,253,133/68,Gajar Halwa,Golf (Walking),5.3,24.1,10.5,78,24.7,Breakfast
+59,Male,33.1,167,124/84,Chana Masala,Recreational Swimming,16.7,23.1,13.3,28.5,15.3,Breakfast
+25,Female,29.8,120,138/67,Rajma Chawal,Gardening,18.4,5.3,9.1,53.5,32.9,Breakfast
+71,Male,20.4,201,153/73,Apple,Pilates,21.7,6.5,6.4,74.8,46.2,Breakfast
+24,Male,19.3,226,166/92,Brown Rice,Gardening,14.5,24.7,8.4,64.5,14.3,Breakfast
+83,Female,23.2,136,146/96,Cabbage,Golf (Walking),21.2,6.8,4.9,32.9,26.6,Breakfast
+90,Male,23,262,180/74,Gajar Halwa,Elliptical Trainer (Seated),23.8,9.1,7.8,53.8,14.2,Breakfast
+26,Female,25.1,215,126/73,Celery,Pilates,21,22.6,10.4,73.1,40.7,Breakfast
+39,Female,24.8,124,163/92,Berries (mixed),Kayaking,5.9,5.7,2,54.2,21.5,Breakfast
+59,Male,28.3,294,164/113,Falafel Wrap,Seated Exercises,13.4,17.6,11.9,23.1,21,Breakfast
+80,Male,18.5,165,138/110,Almonds,Tai Chi,11.9,15.3,14,45,37.7,Breakfast
+84,Female,31.6,229,170/90,Cabbage,Low-Intensity Dance Class,25.3,18.1,7.5,79.5,21.2,Breakfast
+58,Male,26.8,133,166/89,Lean Beef,Water Aerobics,15.4,12.1,0.3,64.5,1.4,Dinner
+52,Male,27.5,168,173/87,Baba Ganoush,"Bodyweight Exercises (e.g., squats, lunges)",29.3,11.1,12.3,21,15.4,Breakfast
+36,Female,23.7,183,159/74,Aloo Gobi,Elliptical Trainer (Seated),6,5.3,5.8,66.7,21.2,Breakfast
+48,Female,29.5,293,160/91,Zucchini,Light Calisthenics,10.5,19.5,10.8,84.4,36,Breakfast
+28,Male,23.8,110,158/104,Almonds,Kayaking,18.1,5.9,11.1,29,12.8,Breakfast
+88,Female,31.9,232,146/112,Flaxseed Oil,Golf (Walking),7.1,24.9,2.9,87.9,14.9,Breakfast
+90,Female,31.5,197,122/107,Barley,Kayaking,27.1,7.5,9.5,80.4,14.5,Breakfast
+21,Female,20.6,290,127/94,Turkey Chili,Resistance Training with Light Weights,31,13.5,3.9,44.6,7.3,Lunch
+83,Female,24.5,246,158/73,Blueberries,Stability Ball Exercises,25.2,19.7,6.8,49.5,40.1,Breakfast
+69,Female,19.2,196,127/75,Green Tea,Meditation and Deep Breathing,23.7,17.7,4.1,42,21.2,Breakfast
+33,Female,20.8,162,159/101,Turkey Breast,Paddleboarding,27.3,18.9,3.3,35.8,1.9,Lunch
+58,Female,32.3,134,138/89,Tomato Soup,Stationary Bike (Recumbent),7.2,23.8,4.6,54.1,20.1,Breakfast
+41,Male,32.1,87,127/75,Chicken Tikka Masala,Gentle Yoga,21.2,18.7,1.8,54.4,9.6,Lunch
+24,Female,31.3,245,146/63,Baba Ganoush,Golf (Walking),21.5,11.9,12.6,43.6,29.4,Breakfast
+29,Female,23.7,153,135/82,Tomato,Recreational Swimming,10.7,15.7,6.3,20.1,36.5,Breakfast
+66,Male,33.1,290,164/79,Rasgulla,Gentle Yoga,16,24.9,13.1,43.7,45,Breakfast
+63,Male,31.8,251,146/65,Watermelon,Balance Exercises,17,14.3,8.8,59,28,Breakfast
+67,Female,27.8,261,130/85,Miso Soup,Tai Chi,19,12.6,8.9,40.7,28.9,Breakfast
+65,Female,25.1,133,126/72,Almonds,T'ai Chi Chih,26,14.2,7.9,85,10,Breakfast
+68,Female,29.6,109,145/66,Kale,Stationary Bike (Recumbent),10.4,21.1,11.7,22.1,21.3,Breakfast
+73,Male,27.1,205,174/67,Grapes,Gentle Yoga,5.3,10.2,7.5,58.3,39.9,Breakfast
+83,Male,31.1,220,156/65,Tomato Soup,Stationary Bike (Recumbent),10.7,13,9.8,76.6,48.1,Breakfast
+47,Male,28.1,90,150/95,Lean Beef,Resistance Band Exercises,28.7,6.6,1,61.3,4.6,Dinner
+49,Female,20.5,283,144/79,Lean Beef,Recreational Swimming,24.3,8.4,2.8,66.1,4.2,Dinner
+36,Female,20.1,139,130/83,Foul Medames,Water Aerobics,16.1,21.1,4.8,23.9,45.8,Breakfast
+60,Female,34.7,87,144/115,Greek Yogurt,"Bodyweight Exercises (e.g., squats, lunges)",7.7,11.4,2.6,67,42,Breakfast
+79,Female,21.7,263,161/120,Black Beans,Low-Intensity Dance Class,29.9,11.6,7.3,55.5,15.9,Breakfast
+38,Male,19.9,80,131/86,Green Peas,Water Aerobics,15.3,22.9,10.7,54.8,17.1,Breakfast
+28,Male,20.1,201,175/93,Harira Soup,Golf (Walking),18.9,7.8,10.3,88.5,25.3,Breakfast
+50,Female,20.7,281,156/110,Avocado,Rowing Machine,10.3,21.7,5.6,60.4,36.9,Breakfast
+44,Male,21.5,183,162/83,Chicken Kebab,Hand Cycling,33.8,13,1.1,45.3,9.5,Lunch
+74,Male,28.3,122,145/89,Turkey Breast,Stretch Band Exercises,28.9,18.1,1.2,32.9,1.8,Lunch
+24,Female,19.3,214,156/117,Quinoa,Elliptical Trainer,7.6,8.7,8.9,25.5,12.4,Breakfast
+48,Female,23.6,179,148/115,Brown Rice,Stability Ball Exercises,24.3,10.6,9.8,63.9,15,Breakfast
+50,Male,22.9,203,128/69,Mango Juice,Chair Yoga,17.3,12.7,10.9,20.2,12,Breakfast
+73,Male,30.5,92,143/80,Grapes,Resistance Band Exercises,8.9,21,4.7,35.5,24.9,Breakfast
+53,Male,24.2,233,132/68,Tomato,Elliptical Trainer,20.1,24,9,85.6,32.6,Breakfast
+51,Male,28,141,172/69,Fish Fry,Resistance Band Exercises,27.4,17.2,1.5,29.5,6.3,Lunch
+51,Female,34.2,91,158/64,Salmon,Stationary Bike (Recumbent),13.5,20.9,7.2,71.4,11.8,Breakfast
+56,Male,33.9,199,147/119,Veg Cutlet,Stability Ball Exercises,20.6,14.4,11.1,42.7,18.1,Breakfast
+37,Female,22.1,230,152/74,Steamed Vegetables,Qi Gong,2.1,5,2,21.7,18.3,Snack Time
+62,Female,18.8,209,129/98,Lamb,Rowing Machine,19.9,16.3,5.8,66.8,30.7,Breakfast
+74,Female,25.1,186,159/90,Tandoori Roti,Golf (Walking),12.8,19.2,4.9,86.5,39.6,Breakfast
+47,Female,31.7,118,127/64,Chia Seeds,Resistance Band Exercises,26.6,7.6,9.7,21.6,42.9,Breakfast
+41,Female,25.8,150,167/80,Chicken Biryani,"Bodyweight Exercises (e.g., squats, lunges)",23.1,17.1,1.5,49.3,5.8,Lunch
+69,Female,26,295,151/97,Cauliflower,Pilates,7.1,14.2,5.3,76.9,17.2,Breakfast
+26,Female,20,125,126/67,Cauliflower,Qi Gong,20.1,23.2,6.9,86.8,14,Breakfast
+57,Male,32.4,198,171/71,Chia Seeds,Rowing Machine,13.1,7.5,5.4,26.2,22.2,Breakfast
+80,Female,29.1,284,132/79,Zucchini Noodles,Pilates,19.1,22,3.4,43,35,Breakfast
+25,Female,18.8,168,168/87,Green Tea,Low-Impact Aerobics,5.7,9.7,13.5,55.1,23.1,Breakfast
+68,Female,28.6,80,156/114,Banana,Stability Ball Exercises,8.4,16.3,3.7,40,13.8,Breakfast
+40,Male,32.4,150,142/84,Tandoori Chicken,Stationary Bike (Recumbent),23.6,10.9,1.5,22,1.4,Lunch
+90,Female,34.8,250,152/91,Idli,Hand Cycling,10.9,6.9,11.3,24.3,45.5,Breakfast
+55,Female,29.3,104,151/93,Dosa,Qi Gong,11.9,18.5,5.6,48.1,43.8,Breakfast
+39,Male,29,246,139/119,Shish Taouk,Recreational Swimming,29.5,12.1,13.6,70.6,29.3,Breakfast
+50,Male,22.8,259,129/69,Tuna Salad,T'ai Chi Chih,1.1,1.4,9.9,25.9,11.9,Snack Time
+33,Male,23.7,82,123/115,Kidney Beans,Resistance Band Exercises,21,18.1,3.4,76.9,20.8,Breakfast
+30,Male,18.6,250,141/110,Palak Paneer,Stability Ball Exercises,11.9,22.1,2.6,44,41.5,Breakfast
+71,Male,27.9,251,174/107,Cauliflower Rice,Light Calisthenics,22.7,12.6,11.6,75.5,28.2,Breakfast
+81,Female,32.9,129,126/120,Chapati,Balance Exercises,16.2,24.3,6.2,78.2,18.8,Breakfast
+45,Female,32,117,140/85,Kale,Low-Intensity Dance Class,8.5,18.5,3.5,21.7,21,Breakfast
+45,Female,20.4,168,138/108,Cauliflower Rice,Stretching Routine,20.3,20.7,13.5,43.2,30.2,Breakfast
+56,Female,30.1,165,180/106,Salmon,Gentle Yoga,8.2,13.2,11.5,60.4,36.3,Breakfast
+84,Female,19,254,145/99,Pork Tenderloin,Paddleboarding,6,12.4,5.2,22.1,42.9,Breakfast
+53,Female,19.4,179,140/71,Turkey Breast,Hand Cycling,23.3,15.2,4,53.1,2.3,Lunch
+28,Male,21.3,268,177/82,Grapes,Canoeing,10.5,22.1,3.6,83.4,45.9,Breakfast
+85,Female,25.9,74,148/94,Orange,Stretching Routine,29.5,12.4,7.8,34.1,24.9,Breakfast
+47,Male,32,117,148/107,Chicken Breast,Balance Exercises,22,19.7,4,31.9,4.4,Lunch
+68,Female,22,85,149/81,Quinoa Pasta,Gentle Yoga,8.2,10.2,5.1,43,26.5,Breakfast
+49,Female,32.9,287,125/69,Coconut Milk,Gardening,20.3,19.3,12,48.9,43.4,Breakfast
+37,Female,33.5,136,123/90,Garlic,Meditation and Deep Breathing,15.1,13.6,7.5,71.9,48,Breakfast
+33,Male,21.3,91,131/64,Dahi Vada,Paddleboarding,11.5,12,3.5,77.7,11.7,Breakfast
+29,Male,24.5,245,172/109,Dahi Vada,Gardening,24.9,9.2,11.4,32.8,35.6,Breakfast
+47,Female,21.5,74,123/88,Labneh,Low-Impact Aerobics,6.3,9,14,44.1,12,Breakfast
+41,Male,32,247,177/89,Rice,Balance Exercises,18.8,9.8,7.1,32.8,34.8,Breakfast
+63,Female,28.7,255,163/107,Lettuce,Resistance Training with Light Weights,19,24.3,3.5,22.6,47.5,Breakfast
+70,Male,31.6,145,162/84,Brown Rice,Gardening,6.1,18,2.9,43.8,31.4,Breakfast
+49,Female,26.8,206,143/71,Roasted Turkey,"Bodyweight Exercises (e.g., squats, lunges)",21.9,11.2,2.8,32.8,9.2,Lunch
+81,Male,24.6,110,143/72,Mushroom Soup,Stretching Routine,7.2,5.7,10.1,56.4,10.9,Breakfast
+70,Male,26.4,119,156/100,Samosa Chaat,Low-Impact Aerobics,22.7,17,14.7,36.5,13.6,Breakfast
+65,Female,33.7,84,137/97,Cabbage,Canoeing,8.8,15.7,12.9,34.4,14.3,Breakfast
+56,Female,18.8,172,137/93,Apple,Meditation and Deep Breathing,19.4,14.7,13.1,46,15.9,Breakfast
+45,Male,22.8,124,126/105,Bell Peppers,Tai Chi,12.5,10.5,13.1,47.5,22.2,Breakfast
+60,Female,22.7,237,147/116,Mango Juice,Stretch Band Exercises,25.5,11.4,14.5,27.8,29.6,Breakfast
+35,Male,19,284,160/62,Fish Tacos,Paddleboarding,25,13.4,3.6,28.2,5.2,Lunch
+62,Female,29.2,138,134/66,Dosa,Stability Ball Exercises,12.5,20.6,10,74.9,29.5,Breakfast
+34,Male,29,105,158/66,Pear,Kayaking,25.7,13.1,5.8,32.6,28.6,Breakfast
+73,Female,30.1,287,160/89,Aloo Paratha,Kayaking,19.1,8.8,9.9,75.6,13.7,Breakfast
+38,Male,22.5,111,126/74,Oats,Low-Impact Aerobics,14.7,12.8,12.6,46.2,48.8,Breakfast
+80,Female,33.1,173,155/117,Kiwi,Qi Gong,20,6.3,4.1,72.1,27.7,Breakfast
+46,Female,24.4,203,128/73,Chicken Biryani,Resistance Band Exercises,35.2,19.1,3.1,37.9,5.9,Lunch
+47,Male,21.6,127,133/77,Oranges,Low-Impact Aerobics,16.7,8.7,14,78.5,21.6,Breakfast
+61,Female,25.5,174,127/103,Split Pea Soup,Low-Intensity Dance Class,29.4,21.7,14.3,37.4,14.7,Breakfast
+78,Female,25.3,142,176/91,Zucchini,Tai Chi,12.6,23.2,8.5,20.1,16.9,Breakfast
+23,Female,32.2,139,179/76,Oats,Meditation and Deep Breathing,20,13.5,13.4,63.3,47.7,Breakfast
+29,Female,30.5,263,175/66,Butter Chicken,Gardening,32.6,17.7,4.4,54.2,3.5,Lunch
+43,Female,26.8,281,138/104,Vegetable Korma,T'ai Chi Chih,4.2,1.4,6.3,38.3,8,Snack Time
+41,Male,30.4,285,126/94,Zucchini,Pilates,28.9,15.4,9.3,77.2,10.6,Breakfast
+21,Female,32,216,155/66,Pork Tenderloin,Tai Chi,15.5,19.6,2.1,26.3,46.6,Breakfast
+79,Female,27.4,88,146/108,Watermelon,Resistance Band Exercises,13.4,18.5,14.3,86.7,31,Breakfast
+23,Female,29.4,115,131/111,Quinoa,Stretch Band Exercises,29.2,13.7,12.1,53,15.4,Breakfast
+81,Male,22.3,264,139/84,Soy Milk,Golf (Walking),5.3,17.5,14.3,83.3,47.9,Breakfast
+72,Male,23.2,111,168/97,Kiwi,Low-Intensity Dance Class,6.1,8.3,7.3,78.8,21.9,Breakfast
+44,Male,27.3,163,149/111,Pani Puri,Meditation and Deep Breathing,28.8,13.9,14.2,24.6,28.9,Breakfast
+28,Male,23.1,292,177/76,Green Tea,Low-Impact Aerobics,26.3,20.3,7.4,49,14.1,Breakfast
+37,Female,20.9,207,161/101,Gajar Halwa,T'ai Chi Chih,23.2,9.5,13.9,31.9,45.7,Breakfast
+86,Male,27.5,169,143/88,Chicken Biryani,Low-Intensity Dance Class,32.4,12.8,4.5,42.6,5.9,Lunch
+35,Male,23.5,157,128/92,Gulab Jamun,Low-Impact Aerobics,15.8,24.8,8.5,56.3,13.8,Breakfast
+87,Female,32.3,281,167/94,Green Tea,Stationary Bike (Recumbent),15.4,15.7,3.5,24.2,44.4,Breakfast
+73,Male,22.5,258,148/108,Roasted Turkey,Chair Yoga,36.4,15.4,2.2,48.3,8.1,Lunch
+55,Male,31.8,292,134/98,Dhokla,Canoeing,24.9,15.5,13.7,67.2,24.1,Breakfast
+40,Male,27.1,142,143/85,Cabbage,Gentle Yoga,29,10.6,5.8,26.6,20.9,Breakfast
+25,Male,25.1,195,151/101,Cucumber,Balance Exercises,28.6,5.5,14.1,48.9,37.8,Breakfast
+63,Female,24.8,235,175/67,Tandoori Chicken,Elliptical Trainer (Seated),29.9,18.7,2.3,22,2.5,Lunch
+66,Male,29.3,200,153/89,Karak Tea,Elliptical Trainer,25.5,15.1,11.2,29.9,15.5,Breakfast
+65,Male,34.9,238,158/115,Matar Paneer,Stability Ball Exercises,13.5,6,4.8,68.2,41.2,Breakfast
+59,Male,34.7,165,137/103,Cucumber,Resistance Band Exercises,27.3,20.2,2.8,37.3,37.2,Breakfast
+36,Male,24.2,184,173/71,Dahi Vada,Paddleboarding,21,7.6,7.5,51.7,39.2,Breakfast
+32,Male,30.2,216,154/106,Rajma Chawal,Kayaking,8.4,12.6,5.8,40,10.1,Breakfast
+27,Male,28.5,265,177/80,Tabbouleh,Recreational Swimming,12.8,16.7,13,51.9,18.8,Breakfast
+26,Male,24.9,256,134/106,Quinoa,Resistance Band Exercises,18.2,22.9,4.5,84,23,Breakfast
+63,Female,21.4,181,144/93,Garlic,Recreational Swimming,22.4,5.6,4.9,29.4,31.2,Breakfast
+83,Male,23.4,235,173/103,Pav,Rowing Machine,7.1,10.5,13.8,32.2,30.8,Breakfast
+84,Female,29.3,134,157/115,Veg Biryani,Balance Exercises,19.5,8,12.6,23.3,34.3,Breakfast
+62,Female,33.7,155,145/89,Grilled Salmon,Elliptical Trainer (Seated),13.9,6.4,3.6,80.2,48.3,Breakfast
+85,Female,29.7,292,158/74,Vada Pav,T'ai Chi Chih,9,24.2,2.8,54.6,37.9,Breakfast
+60,Female,24.2,71,158/104,Samosa,Recreational Swimming,13.2,5,9.1,74.6,12.7,Breakfast
+42,Female,31.4,107,139/112,Fattoush,Canoeing,7.6,11,2.7,83.6,27,Breakfast
+50,Female,23.8,150,162/82,Cabbage,Elliptical Trainer,19.7,15.3,6.9,75.4,17.7,Breakfast
+63,Male,19.6,286,169/90,Orange,Chair Yoga,12.2,6.7,10.6,37.5,13,Breakfast
+74,Male,26.9,216,174/97,Carrot,Stability Ball Exercises,16.3,17.4,7.2,48.9,33,Breakfast
+72,Male,32,142,160/98,Puliyogare,Paddleboarding,5.1,11.9,6.7,58.6,26.1,Breakfast
+33,Female,33.9,70,160/115,Celery,Paddleboarding,20.2,20.2,13.1,20.9,43.2,Breakfast
+26,Male,33.1,151,136/114,Greek Yogurt,Balance Exercises,13.9,11,12.5,81.6,38.8,Breakfast
+88,Female,25.8,276,141/116,Oats,"Bodyweight Exercises (e.g., squats, lunges)",14.8,23.7,5.6,40.5,35.9,Breakfast
+50,Male,24.7,86,135/72,Raita,Low-Intensity Dance Class,27.6,23.8,13,48.1,37.9,Breakfast
+35,Male,34.2,219,170/81,Chia Seeds,Seated Exercises,16.8,21.4,8.5,68.1,19.4,Breakfast
+70,Female,20,223,163/79,Pav Bhaji,Elliptical Trainer (Seated),14.1,10.3,13.5,29.2,15.8,Breakfast
+59,Female,22.7,293,153/76,Whole Wheat Bread,Stretching Routine,18.3,15.5,5.6,38,18.1,Breakfast
+24,Female,30.1,114,160/68,Tuna Salad,Elliptical Trainer,1.4,4.5,9.4,35.1,14.3,Snack Time
+23,Female,29.4,169,147/98,Muhallabia,Seated Exercises,12.1,12.3,10.7,85.8,18.5,Breakfast
+59,Male,20.3,135,170/113,Labneh,Low-Impact Aerobics,11.6,23.1,4.7,24.8,36.5,Breakfast
+89,Male,26.4,138,129/93,Spinach,Balance Exercises,20.5,23.7,9.1,28.3,32.5,Breakfast
+51,Male,24.3,195,147/93,Brown Bread,Qi Gong,21.7,6.1,3.5,74.5,43.6,Breakfast
+56,Male,20.2,100,132/63,Turkey Breast,Paddleboarding,21.3,12.7,1.7,24.9,3.3,Lunch
+67,Female,33.1,92,175/108,Quinoa Salad,Low-Intensity Dance Class,2.1,4.7,3.3,54.6,16.9,Snack Time
+78,Male,32.2,160,127/66,Brown Rice,Stretching Routine,26.7,8,10.3,85.2,33.7,Breakfast
+56,Female,32.1,169,130/74,Sambousek,Stretching Routine,22.2,14,5.1,51.4,21.9,Breakfast
+26,Female,19.4,161,123/94,Watermelon,Stretching Routine,10.2,23.4,11.5,70.4,17.4,Breakfast
+85,Female,22.5,258,144/93,Eggs,Canoeing,18.4,8.7,2.5,68.4,2,Dinner
+51,Female,25.8,290,147/64,Greek Salad,Gardening,4.7,4.7,8.7,43.4,15.3,Snack Time
+84,Female,26.4,174,176/78,Vegetable Pulao,Recreational Swimming,1.8,2.6,4.7,59.6,16.2,Snack Time
+60,Female,25.5,226,168/105,Baba Ganoush,Balance Exercises,18.1,22,9.9,28,14.1,Breakfast
+36,Female,28.5,220,173/63,Fish Curry,T'ai Chi Chih,29.1,10.6,3.9,26.4,9.4,Lunch
+43,Female,28.1,218,128/115,Paneer Tikka,Meditation and Deep Breathing,13.4,24.8,8.3,63.8,19.1,Breakfast
+62,Female,21.9,107,166/81,Pear,"Bodyweight Exercises (e.g., squats, lunges)",21.8,12.5,7.8,66.3,27.5,Breakfast
+80,Male,29.9,163,121/114,Quinoa,T'ai Chi Chih,6,20,14.5,85.1,37.4,Breakfast
+37,Male,20.1,126,120/69,Kadai Paneer,"Bodyweight Exercises (e.g., squats, lunges)",28.5,15.6,3,31.9,49.2,Breakfast
+70,Female,31,107,124/67,Coconut Oil,Stretching Routine,18.5,5.7,2.8,28.7,19.8,Breakfast
+34,Female,26.7,238,143/113,Watermelon,Tai Chi,21.8,7.4,4.3,25.2,14.8,Breakfast
+48,Male,29.6,161,173/114,Pav Bhaji,Balance Exercises,5.8,13.4,9.3,44.1,34.6,Breakfast
+47,Male,21.7,206,150/91,Onions,Elliptical Trainer,24.3,12.4,10.8,42.7,36.6,Breakfast
+60,Male,23.7,205,152/105,Pineapple,Qi Gong,11.6,9.5,2.4,59.1,14,Breakfast
+79,Male,22,244,144/102,Chickpeas,Stability Ball Exercises,15.2,6.5,7.2,72.1,36.8,Breakfast
+59,Male,29.7,144,135/65,Shahi Paneer,Elliptical Trainer,23.8,7.6,7.8,69.1,11.1,Breakfast
+73,Female,20.8,172,136/93,Chicken Shawarma,Rowing Machine,35.9,18.6,3.4,37.9,9.9,Lunch
+31,Male,25.5,176,152/108,Matar Paneer,Golf (Walking),5.9,11.3,12.4,70,46.7,Breakfast
+69,Female,27.3,218,147/120,Eggplant,Chair Yoga,6.8,14.6,8.6,51.8,39.3,Breakfast
+44,Female,28.4,196,134/85,Flaxseeds,Resistance Training with Light Weights,11.1,16.4,3.6,46.5,25.7,Breakfast
+41,Male,31.1,139,129/67,Almonds,Golf (Walking),26.1,19.1,9.9,55.9,47.4,Breakfast
+65,Female,25.9,232,149/68,Grapes,Pilates,29.8,20.5,9.2,46.7,36.7,Breakfast
+61,Male,20.4,244,179/63,Brown Rice,Stretch Band Exercises,17.7,12.9,6.6,83.4,16,Breakfast
+76,Female,27.4,139,126/117,Tomatoes,Resistance Training with Light Weights,23.2,10,11.2,43.4,40.7,Breakfast
+64,Female,28.4,206,123/120,Sweet Potato,T'ai Chi Chih,23.7,20.5,3.7,21.5,49.5,Breakfast
+58,Male,27.2,137,178/64,Cauliflower Rice,Water Aerobics,8.8,14.9,3,88,34.4,Breakfast
+44,Male,26.8,157,125/110,Fish Tacos,Gentle Yoga,31.3,14.5,1.5,59,9.3,Lunch
+38,Female,27.7,236,142/104,Kibbeh Nayyeh,Resistance Band Exercises,27,16.9,3.7,26.4,48.9,Breakfast
+76,Male,20.1,273,166/108,Spinach,Stretching Routine,19.7,7.3,4.5,61.4,45.7,Breakfast
+44,Male,33.8,74,136/87,Chicken Curry,"Bodyweight Exercises (e.g., squats, lunges)",33.6,16.9,3.7,45.2,7,Lunch
+63,Female,19.2,163,146/84,Foul Medames,Seated Exercises,10.6,9.8,11.8,75.3,26.1,Breakfast
+20,Female,25,230,125/106,Lettuce,Low-Impact Aerobics,6.7,13.4,8.6,35.2,49,Breakfast
+20,Male,26.3,186,128/99,Cauliflower,Hand Cycling,19.9,23.3,9.8,70.3,21.4,Breakfast
+87,Female,18.8,237,149/96,Hummus,Canoeing,19.9,8.4,9.5,80.5,37.1,Breakfast
+53,Male,20,72,176/60,Flaxseed Oil,Water Aerobics,8.2,8.6,4.6,29.9,14.8,Breakfast
+25,Male,22,244,137/90,Dahi Vada,Elliptical Trainer (Seated),5.8,20.5,2.6,24.3,42.6,Breakfast
+70,Male,20.2,286,167/117,Almond Milk,Elliptical Trainer,16.4,15.7,5.9,52.1,40.9,Breakfast
+77,Female,26.9,136,128/120,Cucumber,Hand Cycling,9,6.6,6,63,47.8,Breakfast
+28,Female,19.7,156,153/74,Lettuce,Elliptical Trainer (Seated),24.8,19.7,11,39.9,37.7,Breakfast
+72,Female,30.4,184,157/78,Samosa,Water Aerobics,25.8,22.8,10.5,89.9,25.4,Breakfast
+26,Male,31,200,137/91,Soy Milk,Hand Cycling,11.7,22.6,11.2,33,13.4,Breakfast
+68,Female,34.5,196,171/120,Mutton Rogan Josh,Pilates,7.8,5.7,7,89.8,47.8,Breakfast
+53,Female,30.5,107,127/92,Grapes,Resistance Band Exercises,17.6,8.9,11.2,83.3,19.3,Breakfast
+84,Male,32.8,87,120/62,Chicken Breast,Resistance Band Exercises,22.3,13.3,1.8,46.7,8.5,Lunch
+65,Male,28.9,208,141/95,Tandoori Chicken,T'ai Chi Chih,31.6,10.2,4.5,34.9,8.5,Lunch
+57,Male,28.8,186,166/97,Mushrooms,Pilates,20.6,23.8,3.5,38,31.5,Breakfast
+87,Male,29,179,125/85,Watermelon,T'ai Chi Chih,10.9,10,12,77.1,40.8,Breakfast
+86,Female,18.5,100,155/90,Mushrooms,Resistance Training with Light Weights,13.1,7.3,9.6,55.7,39.9,Breakfast
+47,Male,28.8,161,128/94,Chicken Tikka Masala,Canoeing,33.7,16.8,3.1,27.9,6.6,Lunch
+54,Female,34.1,99,121/102,Grapes,Golf (Walking),11.1,20.3,5.7,26.1,11.5,Breakfast
+45,Female,24.7,246,145/84,Chia Seed Oil,Recreational Swimming,5.7,8.3,14.1,26.9,48.1,Breakfast
+32,Male,32.6,107,125/64,Chole Bhature,Qi Gong,19.5,11.2,2.3,21.3,25.2,Breakfast
+51,Female,28.5,118,163/107,Rasam,Water Aerobics,22.2,22.5,13.8,60.4,13.3,Breakfast
+55,Male,23.5,93,156/66,Apples,Elliptical Trainer,19,5.2,6.7,48.9,37.3,Breakfast
+69,Male,30,189,176/79,Chicken Korma,Gentle Yoga,30.7,10.3,1.1,45.6,3.4,Lunch
+55,Female,18.9,240,137/94,Roasted Turkey,Recreational Swimming,28.6,10.9,1.2,55.4,8.1,Lunch
+51,Female,30.9,119,157/100,Palak Paneer,Meditation and Deep Breathing,27.7,21.6,5.7,55.5,11.6,Breakfast
+58,Male,21.2,165,148/68,Pani Puri,"Bodyweight Exercises (e.g., squats, lunges)",28.4,8.6,6.2,20.3,42.4,Breakfast
+59,Female,21.8,273,161/61,Chia Seed Oil,Low-Impact Aerobics,18.1,24.4,8.3,43.6,44.3,Breakfast
+67,Male,31.4,156,162/111,Shrimp,Water Aerobics,19.6,15.9,11.7,81.6,32.4,Breakfast
+28,Male,18.9,154,120/83,Oats,Tai Chi,28.8,8.3,11.7,27.7,42.1,Breakfast
+51,Male,21.1,97,153/111,Oats,Pilates,16.8,9.9,14.4,62.6,39.7,Breakfast
+33,Female,18.9,149,138/68,Cauliflower,Canoeing,20.8,17.5,3.9,60,24.7,Breakfast
+33,Female,23.1,201,128/82,Bell Peppers,Seated Exercises,7.8,23.2,4.9,31.4,45,Breakfast
+80,Female,20.4,249,136/66,Cottage Cheese,Gentle Yoga,20.2,9.6,6.1,35.4,48.6,Breakfast
+56,Female,22.1,274,120/103,Coconut,Paddleboarding,8.5,13.1,4.6,28.3,41.6,Breakfast
+80,Male,19.2,207,160/63,Tomato Soup,Stationary Bike (Recumbent),7.1,9.4,14.7,64.8,19.8,Breakfast
+56,Female,19.1,199,154/66,Shakshuka,Pilates,10.1,6.1,13.7,84.9,12,Breakfast
+34,Male,20.9,228,156/72,Brown Rice,Canoeing,28.7,10.4,10,57,34,Breakfast
+40,Male,22,138,158/115,Vegetable Biryani,Low-Intensity Dance Class,1.9,4.7,8.2,52.3,7.4,Snack Time
+28,Male,23.4,90,131/85,Chicken Soup,Elliptical Trainer,25,17.8,1.7,37.6,7.3,Lunch
+88,Female,20,230,146/118,Stir-Fried Tofu,Pilates,9.7,15.7,4.2,57.5,42.7,Breakfast
+51,Male,28.5,143,134/69,Spinach,Kayaking,25.9,11.9,13.7,42.3,10.6,Breakfast
+42,Male,29.9,171,121/67,Pav Bhaji,Stretch Band Exercises,23.5,17.5,2.4,45.6,42.7,Breakfast
+34,Male,22.9,222,166/92,Stir-Fried Tofu,Chair Yoga,19.7,5.2,4.2,38.1,37.6,Breakfast
+36,Female,32.7,239,153/68,Avocado,Low-Intensity Dance Class,16.3,7.3,5.4,85.2,32,Breakfast
+49,Female,28.2,298,124/88,Kibbeh Nayyeh,"Bodyweight Exercises (e.g., squats, lunges)",13.4,19.9,13.1,79.8,30.9,Breakfast
+29,Female,33.4,141,143/72,Turkey Chili,Stretching Routine,26.7,15.1,2.2,48.6,9.7,Lunch
+64,Female,21.4,204,165/87,Lentil Soup,Elliptical Trainer (Seated),26,21,8.8,74.7,29.5,Breakfast
+75,Male,19.9,300,131/68,Pineapple,Kayaking,26.5,12.3,11.5,43.9,24.3,Breakfast
+89,Female,30.9,102,171/101,Aloo Gobi,Elliptical Trainer,20.3,15.7,9.1,28.3,29.7,Breakfast
+78,Male,22.1,92,128/86,Lemon Rice,Stretching Routine,28.8,14.6,14.5,75.4,25.8,Breakfast
+83,Female,20.8,200,148/81,Quinoa,Stability Ball Exercises,14,22.5,13.3,46.4,43.4,Breakfast
+43,Male,22,142,140/85,Spinach,Stationary Bike (Recumbent),22,8.5,4,32.9,14.8,Breakfast
+71,Female,23.4,175,155/64,Quorn,Resistance Band Exercises,27.2,20.3,7.7,64.8,19.9,Breakfast
+67,Male,21.8,162,168/108,Rajasthani Dal,Low-Intensity Dance Class,16.2,23.8,4.1,46.2,13.6,Breakfast
+56,Male,23.9,209,142/113,Hummus,Kayaking,25.7,10.1,6.3,87.4,25.6,Breakfast
+89,Female,20.7,124,145/79,Kadhi Pakora,Stretching Routine,10.3,17.6,10.2,33.4,19.5,Breakfast
+22,Male,30.6,258,131/103,Chicken Biryani,Canoeing,23.2,15,1.3,55.3,7.5,Lunch
+74,Male,27.9,163,144/113,Fish Tacos,Chair Yoga,23.4,15.5,3.8,51.7,3.5,Lunch
+48,Male,29.7,159,177/62,Walnuts,Hand Cycling,18.9,17.1,8.2,80.3,28.4,Breakfast
+88,Female,30.7,203,177/66,Vada Pav,Elliptical Trainer (Seated),17.1,21,6.8,74.5,29.3,Breakfast
+32,Female,20.6,93,153/68,Pork Tenderloin,Stability Ball Exercises,22.9,11.7,6.6,46.9,15.3,Breakfast
+75,Male,34.1,199,153/67,Asparagus,Stretching Routine,6.5,10.5,4.5,74.4,16.2,Breakfast
+71,Male,33.7,175,128/91,Manakish,Stretching Routine,10.7,11.6,12.2,74,41.3,Breakfast
+58,Male,33.1,201,136/70,Spinach,Seated Exercises,11.3,12.1,6.2,36.1,35.1,Breakfast
+65,Female,27,139,132/78,Kadhi Pakora,Rowing Machine,20.1,16.8,3.1,79.8,44.5,Breakfast
+67,Female,27.1,226,153/63,Coconut Milk,Pilates,6,21.9,13.4,65.6,37.3,Breakfast
+47,Male,25,266,121/105,Quinoa Pasta,Gentle Yoga,16.1,6.4,2.2,89.1,34.3,Breakfast
+22,Female,19.4,246,171/86,Olive Oil,Gardening,6.8,22.6,13.6,69.2,40.7,Breakfast
+81,Female,34.4,177,120/111,Brown Rice,Tai Chi,24,16.3,5.5,47.3,38.3,Breakfast
+28,Male,26.5,256,121/113,Artichokes,Rowing Machine,23.8,9.9,2.8,57.6,12.7,Breakfast
+40,Male,24.9,291,170/119,Walnuts,Golf (Walking),23.6,7.5,8.3,48.9,16.9,Breakfast
+28,Female,34,132,150/67,Spinach,Kayaking,20.6,11.3,11.7,58.6,29.8,Breakfast
+26,Female,32.2,272,138/106,Blueberries,Balance Exercises,17.1,22.7,9.6,48.9,43.4,Breakfast
+89,Male,30.6,255,166/89,Eggs,Gentle Yoga,20.7,7.3,2.1,62.6,1,Dinner
+68,Female,30.5,73,179/60,Watermelon,Balance Exercises,26,16.2,11.5,47.4,44.9,Breakfast
+56,Female,33.8,249,158/63,Labneh Manakish,Gentle Yoga,18.1,7,2.8,49.4,17.3,Breakfast
+84,Female,25.7,116,144/83,Apples,Elliptical Trainer,23.1,10.5,7.2,74.8,44.6,Breakfast
+42,Female,28.4,114,154/101,Dosa,Chair Yoga,18.8,23.4,11.6,43.1,29.6,Breakfast
+56,Female,33,241,127/87,Grapes,"Bodyweight Exercises (e.g., squats, lunges)",24.8,10.6,8.5,35.6,27,Breakfast
+77,Male,31.7,279,131/101,Spinach,Qi Gong,25.5,5.3,3.6,67.8,13.8,Breakfast
+44,Female,27.5,122,145/95,Bell Peppers,T'ai Chi Chih,14.7,21.4,5.7,71.1,21,Breakfast
+90,Female,29.5,149,179/89,Fish Curry,Stretch Band Exercises,22.8,14.5,1.4,54.4,9.2,Lunch
+32,Female,23.7,176,123/113,Lettuce,Recreational Swimming,15.2,10.4,11.9,31.3,37.9,Breakfast
+68,Male,25.8,299,124/60,Kabsa,Hand Cycling,13.3,19.9,8,62,40.8,Breakfast
+85,Male,21.4,104,135/79,Kachori,Low-Impact Aerobics,12.4,5,11.2,67.5,19.7,Breakfast
+73,Male,26.5,130,173/116,Baba Ganoush,Stretching Routine,24.5,13.7,9.8,78.1,16.7,Breakfast
+20,Female,31.7,84,152/90,Peanuts,Rowing Machine,13.7,20.6,11.6,30.1,16,Breakfast
+73,Female,30.5,192,125/75,Roasted Turkey,Tai Chi,23,12.8,3,28.5,6.5,Lunch
+67,Male,31.4,101,149/74,Green Peas,Meditation and Deep Breathing,25,21.7,7.3,53.6,35.6,Breakfast
+59,Female,21.1,264,174/109,Celery,Meditation and Deep Breathing,28.6,16.6,12.2,88.2,36.8,Breakfast
+53,Male,20,213,140/76,Matar Paneer,Elliptical Trainer,16.4,20,10.3,65.3,12,Breakfast
+46,Male,34.4,131,150/75,Lettuce,Hand Cycling,21.5,15.9,7.5,59.3,13.2,Breakfast
+60,Female,29.6,105,160/116,Sweet Potato,Recreational Swimming,18.4,9.6,7.5,75.3,19.9,Breakfast
+85,Male,28.4,130,153/88,Lettuce,T'ai Chi Chih,29.7,22.2,5.9,35.5,32.4,Breakfast
+67,Female,33.4,217,160/72,Gulab Jamun,Rowing Machine,18.3,20.3,10.8,23.1,21,Breakfast
+58,Male,22.2,119,151/75,Kabsa,Low-Impact Aerobics,10.4,8.2,11.8,63.2,10.9,Breakfast
+73,Male,31.6,90,160/102,Pakora,Elliptical Trainer,24.9,11,12.4,73.9,19.4,Breakfast
+67,Male,21.2,236,178/66,Eggplant,Paddleboarding,15,24.3,8.6,67.9,26,Breakfast
+66,Female,25.4,266,145/112,Coconut,Hand Cycling,15.2,18,6.3,84.7,22.7,Breakfast
+43,Female,27.1,152,149/94,Baigan Masala,Qi Gong,17.7,21.9,5,28.1,33.2,Breakfast
+73,Female,33.2,153,170/68,Salmon,Elliptical Trainer,16.3,10.7,4.8,85.3,23.9,Breakfast
+28,Female,33.5,165,122/74,Peanuts,Stability Ball Exercises,18.9,21.3,13.7,20.4,21.4,Breakfast
+50,Female,29.1,245,148/119,Cabbage,"Bodyweight Exercises (e.g., squats, lunges)",18,10.9,13.2,79.4,39.7,Breakfast
+58,Female,30,238,169/92,Soy Milk,Canoeing,18.7,22.6,3.9,85.5,22.4,Breakfast
+26,Female,19.7,73,170/75,Zucchini,Stability Ball Exercises,16.6,17.6,10.8,29,12.1,Breakfast
+62,Male,21.8,135,158/104,Chicken Tikka Masala,Stretching Routine,38.4,19.5,2.3,30.3,7.2,Lunch
+60,Female,25.3,240,169/113,Medu Vada,Gentle Yoga,15.8,16.4,8.4,24.7,41.5,Breakfast
+52,Female,20.2,272,141/72,Bell Pepper,Recreational Swimming,9.6,6,8.7,77.3,13.5,Breakfast
+29,Male,22.5,222,180/71,Masoor Dal,Meditation and Deep Breathing,5.3,22,9.5,71.1,45.2,Breakfast
+42,Female,34.9,231,120/73,Mango,Tai Chi,28.8,5.9,7.1,57.7,47,Breakfast
+49,Male,19.1,251,170/109,Lentils,Elliptical Trainer (Seated),26.3,22.4,11.8,58.5,31.9,Breakfast
+75,Female,32.6,140,175/113,Upma,Light Calisthenics,24.7,13.2,4.8,61.1,12.9,Breakfast
+25,Female,29.6,115,168/93,Apples,Balance Exercises,22.8,12.7,3.9,34,34.1,Breakfast
+24,Male,32.5,208,169/60,Kheer,Water Aerobics,20.1,8.3,2,49.7,22.1,Breakfast
+40,Male,29.8,96,153/78,Kofta,Kayaking,9.9,7.1,12.7,81.5,36.8,Breakfast
+24,Female,34.7,136,123/117,Grapes,Light Calisthenics,19.1,12,8.6,37.9,37.8,Breakfast
+68,Male,24.4,248,166/118,Celery,Gardening,27.1,16.5,8.9,23,42.8,Breakfast
+38,Female,34.8,270,136/97,Vegetable Curry,Stretch Band Exercises,4.9,4.4,8.9,24.7,18.5,Snack Time
+59,Male,27.8,81,170/105,Quinoa Pasta,Chair Yoga,18.5,8.8,11.7,29.9,43.2,Breakfast
+86,Female,27.7,101,125/119,Broccoli,Stability Ball Exercises,23.1,14.7,2.3,79.4,47.2,Breakfast
+62,Male,25.1,227,176/78,Gobi Manchurian,Golf (Walking),9.9,8,14.8,75.6,27.7,Breakfast
+20,Female,28.1,284,148/97,Lamb,Stretching Routine,11.4,24.6,7.6,82.7,49.8,Breakfast
+20,Female,26.8,207,166/81,Harira Soup,Paddleboarding,26.5,7.2,10.6,30.2,40.6,Breakfast
+83,Male,25.5,141,125/91,Walnuts,Gentle Yoga,26.6,10.7,5,54.7,46.8,Breakfast
+34,Male,30.7,269,178/69,Lettuce,Resistance Training with Light Weights,8.2,16.6,3.2,54.3,23.4,Breakfast
+53,Female,22.5,160,175/106,Eggplant,Resistance Training with Light Weights,25.1,17.2,11.7,44.4,26.5,Breakfast
+51,Male,31.8,258,147/90,Rajma Chawal,Resistance Band Exercises,9.3,16.9,2.2,58.8,33.9,Breakfast
+87,Male,32.1,219,165/90,Chicken Tikka Masala,Elliptical Trainer,32.6,11.4,2,23.4,4.9,Lunch
+60,Female,25,147,120/103,Pav Bhaji,Seated Exercises,25.4,7.7,13.5,62.6,27.5,Breakfast
+84,Female,27.5,162,150/71,Cauliflower Rice,Stretch Band Exercises,21.6,17.6,7,86.9,21.6,Breakfast
+69,Male,23.2,151,156/89,Chickpeas,Gardening,11.9,6.6,5.3,86.3,48.8,Breakfast
+59,Female,33.9,79,162/86,Apple,Resistance Training with Light Weights,18,16.7,13.6,66.3,35.5,Breakfast
+43,Male,19.4,273,142/88,Kale,Elliptical Trainer,15.4,17,14.3,64.2,33,Breakfast
+90,Male,30.3,178,153/119,Quinoa Salad,T'ai Chi Chih,1.5,4.2,8.6,49.8,17.4,Snack Time
+73,Male,23.2,206,172/66,Watermelon,Elliptical Trainer (Seated),22.7,10,5.1,47.7,42.1,Breakfast
+85,Male,24.9,258,147/97,Berries (Mixed),Light Calisthenics,19.2,17,2.5,54.7,20.7,Breakfast
+90,Female,32.8,199,157/92,Turkey Breast,Low-Impact Aerobics,30.9,12,3,38.9,9.3,Lunch
+70,Male,28.2,135,145/92,Matar Paneer,T'ai Chi Chih,17,14.6,12.6,32.4,10.7,Breakfast
+58,Male,23,181,177/87,Aloo Paratha,Seated Exercises,29.4,8,10.1,43.4,27,Breakfast
+43,Male,31.3,112,123/78,Orange,Meditation and Deep Breathing,25.3,9.5,7.3,80.7,29.2,Breakfast
+29,Female,22.5,245,162/112,Spinach,Elliptical Trainer (Seated),14.2,20.1,4.1,44.1,28.9,Breakfast
+75,Male,21.8,169,142/89,Methi Thepla,Meditation and Deep Breathing,11.7,17.6,3.2,56.2,47,Breakfast
+64,Female,31.6,269,141/117,Dosa,Meditation and Deep Breathing,11.6,11.6,8.8,43.8,42.4,Breakfast
+73,Female,28.6,194,177/104,Lentils,Stability Ball Exercises,23.3,6.3,13.1,30.6,39.7,Breakfast
+73,Female,24.4,70,136/92,Mozzarella Cheese,Light Calisthenics,12.7,17.3,5.4,52.8,47.9,Breakfast
+80,Male,32.7,85,131/77,Cucumber,Tai Chi,11.7,14.3,2.6,53.3,44.5,Breakfast
+56,Male,33.7,265,178/110,Aloo Gobi,Elliptical Trainer,26.1,13.9,14.1,31.3,35,Breakfast
+44,Male,29.5,246,123/108,Chicken Breast,T'ai Chi Chih,37.8,10.4,1.1,45,9.5,Lunch
+43,Male,19,273,128/80,Soy Milk,Elliptical Trainer (Seated),20.8,20.4,10.8,33,27.5,Breakfast
+56,Male,19.8,184,154/102,Masoor Dal,Balance Exercises,25,11.8,14.6,45.9,49.1,Breakfast
+24,Male,24.2,228,156/92,Ginger,Resistance Training with Light Weights,10,22.1,4.9,79.8,43.4,Breakfast
+66,Male,19.2,278,146/96,Quorn,Gentle Yoga,22.5,5.2,6.1,59.2,27.4,Breakfast
+81,Female,23.5,188,144/116,Lean Beef,Recreational Swimming,22.7,15,0.4,58,1,Dinner
+77,Male,26.9,117,131/79,Muhallabia,Canoeing,26.5,23.6,7.8,66.5,47.3,Breakfast
+85,Female,20.4,224,137/97,Eggplant,Recreational Swimming,5.5,11.1,13.8,45.6,48.3,Breakfast
+63,Female,25.3,288,137/75,Brown Rice,Gentle Yoga,23,12,14.5,73.6,22.5,Breakfast
+45,Female,19.4,238,152/80,Oats,Balance Exercises,25.3,24.2,4.7,74.1,28.4,Breakfast
+61,Female,19.3,122,128/109,Oats,Stationary Bike (Recumbent),16.7,11.3,11.4,45,27,Breakfast
+52,Male,32.9,87,143/96,Pork Tenderloin,Resistance Training with Light Weights,29.9,23.9,14.2,52.1,45.4,Breakfast
+84,Male,30.9,285,146/119,Stir-Fried Tofu,Stationary Bike (Recumbent),19.1,22.7,8,85.5,14.9,Breakfast
+31,Male,27.1,246,148/77,Pork Tenderloin,Resistance Training with Light Weights,27.8,8.5,14.9,33.1,31.9,Breakfast
+71,Female,25.1,158,178/114,Samboosa,Tai Chi,26.7,8.9,8.4,27.1,47.3,Breakfast
+56,Female,19,102,142/81,Fish Tacos,Low-Impact Aerobics,39.5,16.5,4.9,41.6,1.7,Lunch
+35,Female,32.5,102,129/74,Olive Oil,"Bodyweight Exercises (e.g., squats, lunges)",16.6,23.8,12.4,55.6,42.3,Breakfast
+84,Male,24.3,273,137/66,Orange,Canoeing,25.1,23.3,14.9,42,39.4,Breakfast
+32,Male,28.7,130,179/69,Turkey Breast,Stretching Routine,27.1,13.8,1.7,46.1,5,Lunch
+22,Female,22.3,179,168/87,Rajasthani Dal,T'ai Chi Chih,17.3,13.5,4.7,48.1,43,Breakfast
+84,Male,33.4,211,122/78,Berries (mixed),Gardening,28.9,8.3,6.7,30.1,12.5,Breakfast
+34,Female,32.3,234,172/116,Zucchini Noodles,Chair Yoga,26.9,16.1,11.5,30.5,11.5,Breakfast
+87,Female,25.7,249,155/118,Raita,Kayaking,5.8,12.9,5,37.4,20.3,Breakfast
+67,Male,21.9,279,178/60,Kabsa,Stationary Bike (Recumbent),12.7,8.6,10.4,68.7,15.1,Breakfast
+31,Male,21.2,299,133/102,Veg Biryani,Resistance Band Exercises,17.3,24.9,9.3,61.2,26.2,Breakfast
+59,Male,26.4,136,150/100,Malai Kofta,Meditation and Deep Breathing,26.6,5.3,4,57.6,27.9,Breakfast
+76,Male,24.2,227,160/109,Chicken Curry,Low-Impact Aerobics,38.7,14.2,2.2,44.2,9.4,Lunch
+37,Male,23.3,297,160/80,Mujadara,Tai Chi,7.4,15.6,9.5,52.2,23.8,Breakfast
